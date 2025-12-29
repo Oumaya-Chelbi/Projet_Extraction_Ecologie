@@ -37,9 +37,9 @@ build_corpus_ecologie.py : crée EUPDCorp_TXT_Ecologie1 en ne gardant que les ph
 
 analyse_descriptive.py : statistiques descriptives sur le corpus global (discours par année/pays, volume de mots écologiques, premières années d’apparition, etc.).
 
-lda_globale.py : 
+lda_globale.py :
 Première execution sur le corpus initiale EUPDCorp_TXT (sortie dans results/lda/).
-        
+
 Deuxième execution : LDA sur le sous‑corpus écologique (EUPDCorp_TXT_Ecologie1), production de 10 topics écologiques + sauvegarde du modèle et du dictionnaire (sortie dans results/lda_ecologie/ et models/).
 
 lda_annee.py : LDA par année sur le sous‑corpus écologique, plus calcul de poids de topics et de fréquences de mots clés par année.
