@@ -1,0 +1,655 @@
+the next item is the joint debate on the report by josé blanco lópez, drawn up on behalf of the committee on industry, research and energy, on the proposal for a directive of the european parliament and of the council on the promotion of the use of energy from renewable sources (recast) (com (2016) 0767 c8-0500/2016 - 2016/0382 (cod)) (a8-0392/2017), the report by miroslav poche, drawn up on behalf of the committee on industry, research and energy, on the proposal for a directive of the european parliament and of the council amending directive 2012/27/eu on energy efficiency (com (2016) 0761 - c8-0498/2016 - 2016/0376 (cod)) (a8-0391/2017) and the report by claude rivas, drawn up on behalf of the committee on industry, research and energy, on the proposal for a directive of the european parliament and of the council amending directive 2009/65/ec, directive 2009/65/ec, directive 2009/75/ec, directive 2009/70/ec, directive 2009/70/ec and commission directive 2009/70/ec, directive 2009/70/ec, directive 2009/ec and commission regulation (eu) no 66/377/ec, directive 2009/70/ec, directive 2009/ec and directive 2009/70/ec, directive 2009/ec, directive 2009/70/ec and directive 2009/70/ec, directive 2009/ec, directive 2009/70/ec and commission regulation (eu) no 78/77/77/ec.
+– mr president, i would like to take this first opportunity in plenary to start by expressing my appreciation for the very constructive role that the parliament delegation played in securing political agreement at the last trilogue meeting on the energy performance in buildings directive (epbd), and to the rapporteur, bendt bendtsen, and all the shadow rapporteurs involved.
+it is clear that strong governance rules will be a crucial for ensuring a resilient energy union with ambitious energy and climate policies and for making sure that the whole clean energy package sticks together.
+we need a reliable approach to governance at european level, notably to ensure the effective achievement of the european union’s 2030 targets for energy and climate.
+the commission welcomes the european parliament’s ambitions to establish effective and reliable governance for the energy union.
+coherence is one of the central assets of the clean energy package, and it is of paramount importance to continue paying particular attention to this in the work ahead.
+finding a common ground on this will be an essential element showcasing our commitment towards achieving the energy transition.
+to keep a coherent and integrated approach, a single energy union committee for the implementation of the regulation, across all dimensions, is also essential.
+co-existence of two separate committees would not be the optimal solution because of the many linkages between energy and climate, and it would blur clarity about competence.
+we further encourage the european parliament to keep an ambitious position on the deadlines for the draft national plans, which are important to guarantee the effectiveness of the iterative process, to convey early investment signals to the markets and investors, as well as for the facilitative ‘talanoa’ dialogue under the paris climate agreement.
+citizens are at the centre of the clean energy transition.
+consumers are becoming the real drivers of this energy transition, and this is well reflected in the emphasis put by the parliament on the role of citizens and civil society in taking part in the process leading to the definition of climate and energy policies.
+finally, we also need to promote additional efforts to tackle energy poverty in europe.
+the clean energy package proposes several measures contributing to the alleviation of energy poverty, but i welcome that the european parliament has recognised the importance of this by strengthening the efforts to be made by member states to reduce energy poverty.
+let me turn now to the proposed revisions to the renewable energy directive.
+the aim of our regulatory framework is to ensure a continuous flow of investments into renewable sectors and to ensure its competitive development for the benefit of our citizens and our industry.
+overall, i believe the text adopted in the committee on industry, research and energy is a reasonable compromise which takes into account the different positions across the european parliament and reinforces the proposal for a directive.
+another issue is the harmonisation of the sustainability criteria for bioenergy, where the text adopted in the committee on the environment, public health and food safety would lead to contradictory interpretations, potentially opening the door to the introduction of national criteria.
+excluding these feedstocks by default is neither environmentally desirable nor practical, as it would require all forest biomass used in the energy sector to be certified.
+let me now address the energy efficiency directive.
+it is crucial that parliament maintains its position on an ambitious energy efficiency level, including the binding character of the european union target and the strong article 7. these are key elements, not only for reducing key energy consumption, improving competitiveness, strengthening our energy security, improving air quality and quality of life, and reducing energy poverty, but also in the context of achieving our climate objectives.
+indeed, analyses show that the majority of measures under article 7 – aims of the renovation of buildings through energy efficiency obligation schemes, fiscal incentives or financing schemes – will deliver real benefits to the consumer in the form of reduced energy bills.
+without maintaining a strong article 7, many profitable energy savings will not take place in the next decade.
+first, even if it is decided politically to introduce an ‘adjustment factor’ for the level of the european energy efficiency target, this factor should certainly not be linked to the level of renewable energy consumption.
+renewable energy and energy efficiency are partners, not rivals.
+second, we will not be able to maintain a strong article 7 if we allow excess energy savings from the current period to be carried forward after 2020. this would open a significant loophole and would force the commission into a position where it would need to intrusively monitor the details of implementation in member states.
+renewable energy, a very important thing, like the sun, was coming to earth.
+plants were created from sunlight and carbon dioxide.
+and that carbon is now burned, and carbon dioxide is created again.
+do you not think that banning coal burning will disrupt the process of renewable energy generation?
+that's a pretty interesting number in megatons, but unfortunately i think 893 megatons of final energy is probably not enough.
+why is there such a difference in efficiency and do you think that final energy should not be limited at all?
+we forget that this is an energy package, not a climate package.
+i would therefore like to ask commissioner cañete whether article 194 (2) of the treaty on the functioning of the european union, which states that the member states have sovereignty in the choice of their energy basket, is still applicable.
+the clean energy project proves once again that parliament puts ideological thinking before common sense.
+as far as energy efficiency is concerned, professor gierck's proposal to calculate it in relation to primary energy is rational and scientifically justified.
+the target of 35% renewable energy can be realistic, ladies and gentlemen, but only if we have the full range of energy sources at our disposal.
+as regards the governance of the energy union, i do not agree with the tendency to restrict the member states' powers to shape the energy basket.
+i think that these targets are not realistic at the moment: 40 or 35%, especially since the european commission can in some cases impose a renewable energy target, which is unattainable for many countries.
+energy efficiency is the percentage of energy obtained each time it is changed from one state to another.
+this may be a percentage of final energy in relation to primary energy or of useful energy in relation to final energy.
+i have expressed this, among other things, as rapporteur for the draft report, introducing the definition of energy and the need to take account of the entire energy chain.
+i also introduced the definition of energy efficiency of the energy basket.
+i've decided that the primary energy should be limited, not the final energy.
+the draft directive promises energy efficiency as a core theme.
+but it's about reducing the final energy use, so why is that a lie?
+we need a better mechanism and a better way of calculating than the current one, in the form of a proper system of primary energy indicators, in order to convert primary energy into final energy and vice versa.
+primary energy factors are clues to energy efficiency.
+the commission proposal aims to create a regulatory framework for the governance of the energy union by simplifying and integrating existing planning, reporting and monitoring obligations in the field of energy and climate.
+the second objective is to define a robust policy procedure between member states and the commission, in close cooperation with the other eu institutions, to achieve the energy union and its 2030 energy and climate goals.
+i objected to this report because there is no agreement on the following: the inclusion of energy poverty provisions in the national energy and climate plans, changes beyond the scope of this regulation in the case of the common reduction effort regulation, linear trajectories in the renewable energy directive and the energy efficiency directive, and plans to adopt more ambitious targets in the national five-year growth plans.
+the pursuit of greenhouse gas emission reductions to limit adverse climate change is a strongly encouraged action.
+technological progress and the development of biofuels have enabled a more sustainable use of natural resources, created thousands of additional jobs and become a major industry of great importance for the economy of individual countries and the development of agriculture.
+the amendment to the renewable energy directive (red ii) which we will be voting on introduces restrictions on the production of first generation biofuels (from cultivated plants), setting a cap of 7% on their share in the transport fuel mix by 2030. it also envisages phasing out palm oil as a feedstock for their production by 2021. the best thing to do is to give up palm oil, which is competitive with rapeseed grown in europe and which is also cutting down tropical forests.
+there is no doubt that we need to improve the environment.
+the debate on clean energy therefore focuses on instruments to promote renewable energy and improve energy efficiency.
+i think it is crucial to accept the principle that energy efficiency improvements are not just about the end use of energy.
+energy savings can be stimulated and achieved throughout the energy chain.
+the second problem is that the improvement in energy efficiency will not be the same in every sector of the economy.
+there are simply more and less energy-intensive sectors of the economy.
+if we set too high efficiency targets for energy-intensive sectors of the economy, they will be shifted outside the eu, causing a number of social and technological problems.
+i am therefore pleased with the results achieved by the four strategies in place, particularly in relation to environmental protection, energy, transport and tourism.
+i would like to stress here that sustainability is also necessary here, so as to balance this both geographically and to involve small and medium-sized industries.
+the report on international ocean governance raises a number of important issues, such as illegal fishing, exploitation of natural resources on the seabed, and the risks of pollution, in the fight against pollution of the seas and oceans.
+promoting renewable energy in the form of ocean tides and winds is controversial and can disrupt the ecosystem.
+similarly, the demands of decarbonization are good for highly developed countries, but very bad for countries that need cheap energy.
+that's why i abstained, also because i was promoting a new idea of creating global values and principles of sustainable development, which is actually against nature.
+i am convinced that this system or this method of fishing is plundering and damaging the oceans and seas, that it is disrupting the ecosystem there, disrupting the structure of the seabed and killing species that are not, in principle, hunted, and it is good that we, as parliament, are sending a clear signal that we are not subject to lobbying interests and are trying to approach the environment in such a way as to protect it.
+it is one of the european values to protect the environment, to preserve it for future generations.
+i voted against a report that does address a number of real issues, such as the greater impact of climate change on poor communities, with calls for appropriate programmes to be directed to disaster-hit areas, with aid, with calls for local food choices and with condemnation of the sexual violence against displaced migrant women.
+however, many of the records contradict common sense by making an unwarranted link between climate change and the migration crisis.
+other laws are also unacceptable, such as encouraging women to work in forced labor, providing environmental services such as afforestation, or protecting natural resources.
+kenya’s strength and resilience very much depend on democracy and rule of law in that country, and that is why kenya’s rising middle-class demands that its business environment is improved and that more investment is attracted.
+despite this overall positive environment, the mission has received criticism from supporters on both political sides.
+the vote will take place on wednesday 17 january 2018.
+the next item is the debate on the question for oral answer addressed to the commission by mr bernt lange, on behalf of the committee on international trade, on the trade and sustainable development chapters in eu trade agreements (o-000098/2017 - b8-0617/2017) (2017/2988 ((rsp)).
+mr president, safeguarding human rights and workers’ rights, but also environmental standards, is one of the biggest commitments here in the european union.
+i therefore welcome the commission’s initiative to improve and ensure more coherent, ambitious and effective trade and the sustainable development chapter in the future free trade agreements.
+however, the question is how to stay competitive whilst promoting such a high level of environmental and social standards.
+trade policy is closely linked to sustainability: trade is a means to promote not only economic growth, but also norms and values that will help to address today’s complex global value chains, achieving a level playing field whilst promoting social inclusion and environmental protection.
+european companies for many years now have been committed to delivering such sustainable solutions, both in the eu and abroad.
+nonetheless, free trade agreements are not – and should not be – a way to promote the eu’s social environmental standards.
+one way to achieve this is to include sustainability chapters in eu trade agreements with third countries.
+they can be tools for promoting relevant international labour and environmental standards, as well as a general outlook on human rights and good governance.
+however, it should be noted that the provisions on the sustainable development chapters are already binding and subject to a mutually recognised dispute settlement mechanism.
+but what i would like to point out is that in this document you do not mention the link between this plastics strategy and the bioeconomy, and yet there is a kind of hope at the moment that renewable raw materials can be the source of plastics that are biodegradable.
+without cooperation with the middle east and africa, we cannot prevent this pollution, especially when it comes to microplastics.
+we invest in innovation, for instance, with the digital4development initiative, in energy efficiency, in local entrepreneurship, in the green economy and in the fight against climate change.
+while the herders are mainly muslim and the farmers mainly christian, the conflict reflects the limited access to land fuelled by climate change and demographic growth.
+this conflict has intensified in recent decades as a result of population growth, climate change and related droughts, and the increasing desertification of northern nigeria, and more recently as a result of the activities of the terrorist group boko haram.
+following very carefully this case for years now i cannot resist the impression that all the parties participating in this discussion are focusing on the legal side and their own interests only, and are forgetting the environmental aspect of this matter.
+snow crab is spreading and may threaten the barents sea’s fragile benthic ecosystem.
+by blocking the european union’s efforts to enable european vessels to collect catch and scientific data, norway is increasing the risk of damaging this ecosystem.
+having mentioned this, i insist that all parties to today’s discussion should seek common ground for cooperation and compromise to enlarge necessary knowledge about the snow crab population, for the sake of the necessary protection of the barents sea ecosystem.
+so it's questionable whether the state and federal governments really didn't know about the emissions manipulation and the experiments on animals and humans.
+but as far as extending the emission tests on cars to the health issue, of course politically i support the idea, but technically we should look at all emissions, not only from cars.
+i will do my best because i will soon have – or my successor will soon have – tools for emissions and for the things that are under the type approval regulation, but animal testing is much wider than we thought during the emissions scandal.
+regarding the response to the written questions to the committee on the environment, public health and food safety (envi), i was told that the current horizontal rules did not foresee such a submission of the written answer ahead of the regular exchange of views, but i can assure you that i will provide you with this response this evening or tomorrow morning.
+we will do our best on type approval and emissions.
+a balanced and realistic approach to environmental ambitions and the associated costs of technical constraints is essential in european energy policy.
+at the same time, it unfortunately limits the possibility of financing fossil fuel-based investments under compensation mechanisms, even those that are economically efficient and have exceptionally low emissions.
+and remember, too, that in the fight to protect the climate and the environment, we often face energy poverty, and that is very much linked to the problem of heating in many regions that are moving away from coal, step by step.
+therefore, by maintaining the possibility of giving the district heating sector special treatment in the modernisation fund, which is also partly innovative, we have a chance of protecting people who could suffer from a lack of energy supply.
+i would like to point out that, firstly, we have achieved an important objective which will allow european companies to avoid being exposed to emissions leakage and to continue to be protected.
+secondly, instruments have been put in place to enable the energy sector in countries that need to be transformed - such as poland - to receive funds from the scheme to cover part of the costs of the necessary transformation.
+thirdly, the heating sector has been given support and special treatment, which in countries such as poland is crucial for reducing not only co2 emissions but also emissions of pollutants such as sulphur oxides, nitrogen, dust and in general the whole smog phenomenon, which is associated with low emissions.
+we're continuing to debate the energy issue.
+we all know that energy is the most important thing for the economy.
+we want to minimize the environmental impact - it's about climate, but it's also about eliminating things like smog.
+and finally, we want to keep energy prices low and we want to keep industry competitive.
+we have the clean energy package, and the name of the package says a lot about what energy, what energy future and what transformation in the european union is all about.
+if we take all of this together, the only way we can actually do this in the long run is by investing in new energy technologies.
+this is a matter of fundamental importance for our future and the future of the energy transition.
+we certainly want to unlock public investment, private funds and citizen engagement to support our efforts to find new energy solutions.
+we've been talking about this for a long time, but if we really want to take advantage of the long-term funding for new energy technologies, we have to do it.
+and we need to increase funding for energy, new energy technologies.
+in the framework programme we would like to see at least 120 billion euros, but the point is to increase the energy funds by 50%.
+remember, we have our european institute of clean technology, which is about innovation and technology, and half of its activities are about improving energy technologies.
+we have digitization, we have problems in transport, in construction, we have our environmental policy, regional policy, we have infrastructure connections, we have to connect all these programs.
+and that's the only thing that can really make a difference in the energy technology transformation, because we're not just transforming our energy market, we're transforming technologies.
+all these activities should support innovation in the generation, transmission, storage and consumption of energy.
+i would like to thank you, commissioner, for drawing up a communication from the european commission on such an important subject as energy innovation.
+we talk all the time about the clean energy package, we talk about energy poverty, we talk about security of supply.
+it's not just a matter of switching energy suppliers or buying equipment with the right energy class.
+i am convinced that with the help of a mobile app, we will soon be able to buy the electricity we need from a small cooperative, for example in lisbon, which has solar panels on the roofs of nearby apartment blocks, or after shopping, our refrigerator will calculate the electricity demand, connect to the energy portal and auction off the power we need from the owner of a geothermal power plant in slovak poprad, or our electric car charged at night will resell some of the energy at daytime rates while waiting in the parking lot at work.
+if we don't convince our citizens that this is worth fighting for, that this will also save us energy, save us money, we're not going to win.
+citizens are the key to the successful introduction of low-carbon innovation from smart meters in their homes to large wind farms.
+finding new and better ways to engage europe's citizens in the transition to a low-carbon economy and to give voice to the existing strong public support is crucial.
+more engaged citizens take greater responsibility for their own and the eu's energy security and help develop new and original business models.
+to help european citizens change their minds and understand how they can innovate and use digital tools to produce, consume and conserve more sustainable and clean energy, systematic education programmes should be introduced.
+the european union must become a world leader in energy innovation.
+accelerating the transition to a competitive low-carbon economy is both an urgent necessity and a huge opportunity for europe.
+i abstained because the solutions adopted in the report, which are called 'cost-effective emission reductions and low-carbon investments', limit the possibility of financing fossil fuel-based investments, even those that are economically efficient and low-carbon, through compensation mechanisms.
+we propose solutions that invest in advanced coal technologies that will give a real chance to reduce emissions of pollutants.
+moreover, the ets reform interferes with the right of member states to decide on the energy mix, which should remain the exclusive competence of member states in accordance with the treaties.
+it is important to highlight in this debate that the european union is the world leader in the fight against climate change and environmental protection, but we are not among the first countries to invest effectively in clean energy innovation.
+unfortunately, in the member states, energy investments are investments for 12, 15, 20 years, and legislation or financing can change over a few years.
+the geographical compatibility of the place of production of energy with the simultaneous consumption of that energy is a security for europe, because it means independence from external suppliers.
+of course i voted for the 'accelerating clean energy innovation' project because i think that beyond the political divisions, what we have in common is that we want people in europe and the world to actually breathe air that is healthy and clean.
+it is worth noting that this acceleration of clean energy innovation should not discriminate against any energy source, and unfortunately i have the feeling that the european parliament is still discriminating against advanced coal technologies, which are an opportunity.
+innovations in modern coal technologies are an opportunity to reduce energy poverty in poland.
+but this means, once again, strong political will, a readiness to carry out necessary reforms and, in particular, to prove the sustainability of measures which have been called for.
+i hope that the changes taking place in zimbabwe will open a new chapter in its relations with the european union and the international community and will allow zimbabwe to create the conditions for sustainable development.
+the programmes for which the bank lends have beautiful names: 'combating unemployment', 'climate change', 'women's empowerment'.
+the only thing the european parliament has proposed is to add a few clichés to the content, such as: 'the highest standards of transparency and democratic accountability must be maintained'; 'poverty, inequality, unemployment, climate change must be eliminated'.
+ms georgieva would have said ‘better spending’, and that’s exactly what we need in the field of development, too, because if we want to achieve the sustainable development and climate goals, we will need to crowd-in the private sector.
+that means we are bound to the values of the european union, whether that’s on human rights, the social dimension, the environmental dimension, on procurement law, whatsoever, and this means that you can expect us to deliver on this promise of sticking to the values of the european union.
+with this tool we can increase investments in order to achieve our three goals: first, the sustainable development goals; second, climate change; and third: to strengthen long-term economic resilience.
+and the daily practice of democracy is crucial to its sustainability.
+– mr president, today’s debate is a good opportunity to recall the importance of the trans-adriatic pipeline as a key infrastructure project for european union energy security and the internal energy market, and how it fits into the broader european union picture.
+gas remains today a significant source of energy in the european union, accounting for 22% of the union energy mix.
+for italy, this additional supply source is particularly important, given that the sale of gas in its energy mix, at 35%, and its substantial dependence – 90% – are both above the eu average.
+we expect the tap project to improve europe’s energy security and lead to a more competitive market.
+let me now turn to the question raised about the potential environmental impact.
+a high level of environmental protection is, of course, of the highest priority for the commission.
+first, i note that the necessary environmental and social impact assessments have been carried out for this project, and these included a list of conditions to be fulfilled before the construction phase, during the construction phase and in the operational phase itself.
+however, the environmental aspect is no less important, which is raised by the italian citizens, because the pipeline is to pass through an area that is also seismically active.
+earthquakes can cause a pipeline to break, beyond the potential energy-terrorism threat.
+i personally regret that the citizens of the baltic countries did not show such social activism, allowing the nord stream gas pipeline to be carried out on the seabed with the enormous risk of ecological disaster in the baltic sea, which could be caused by the deposition of chemical weapons on the seabed, sunk after the world wars in shipwrecks and containers.
+perhaps the baltic is very sensitive to pollution because of the limited exchange of water with the north sea, where the circulation through the narrow danish straits is the reason that the total exchange of baltic waters to oceanic waters takes 25 to 35 years.
+all the foreign substances brought into the baltic sea remain in it for many years, creating a huge ecological threat, violating the seabed, the rocks that are the habitat for living organisms.
+farmers provide society with a range of public goods in the areas of environment, landscape design and landscape management for which they are not paid.
+the environment will clean itself, as one of the lawyers of that time said, and he was a very respected lawyer, but the environment didn't clean itself.
+the communists were not removed, their successors came and so on and so forth, this whole system of clientelism: whoever disagreed was marginalized, whoever exposed themselves to the environment was finished.
+the council’s ability to address country situations must be preserved and, at the same time, the council must adapt to a more challenging global environment.
+only dialogue and understanding can help us build sustainable agriculture.
+we have focused on environmental protection through eco-driving and raising awareness of the dangers of using electronic devices while driving.
+traffic is one of the most significant challenges faced by rapidly growing cites: congested roads are a strain on the environment, the economy and the overall quality of life.
+the report proposes positive solutions to support economic growth, sustainable development and job creation in the less developed regions of the european union.
+i supported the report on the role of european union regions and cities in implementing the paris agreement of the cop21 climate change conference for several reasons.
+i agree that the budget for regional policy should be increased after 2020. in addition, funding is needed to support innovation and research that will help develop new technologies to reduce pollution.
+this is particularly important for mining regions which, like silesia in poland, are in the process of energy transition.
+knowing that we are repeating the proposal in a slightly better climate there is no longer the tightening of the belt as in 2011 2013 we respect the fiscal sovereignty of the member states.
+agriculture is also part of a number of new challenges renewable energy sources are improving energy security, climate and creating new jobs.
+agriculture is the production of a range of raw materials for industry, as well as the production of various public goods related to the environment and climate.
+we should continue to promote such dialogue but in a responsible way, with focus on the sustainable development, democracy and human rights.
+in its communication, the commission proposed the priorities on which member states should focus their attention in implementing national policies and reforms to achieve sustainable and inclusive growth in the 'noble triangle', increase investment, implement structural reforms and ensure sound fiscal policies.
+i believe that the issues i have mentioned should be the top priorities that member states need to focus on when implementing national policies and reforms to achieve sustainable and inclusive growth.
+i would like to say that the future of the european monetary union is a question of interest for all european citizens, so we will work on creating optimal conditions for strong and sustainable economic growth in the european union, through initiatives to strengthen the european monetary union.
+you addressed important points and your remarks will provide valuable input for discussions in the council that touch upon many aspects of the european semester, such as education, employment – with particular accent on youth employment – competitiveness, environmental and social policies.
+we are creating a circle of friends with parties across the world who are of the firm belief that trade is a good thing if we make good trade agreements based on fair, sustainable and transparent trade.
+income received from the central bank mainly from the issue of money, but also on the financial transaction tax, the taxation of the digital sector or environmental taxes.
+this is a matter of environmental, climate and social standards.
+consumers need to be made aware and convinced that it is worth buying products or using services from companies that promote good working conditions, environmental protection or support the local community.
+since then, the commission and the european parliament, with the support of the council, have worked together to find solutions allowing the orchestra to continue its activities on a sustainable basis.
+it is therefore appropriate for the european union to contribute to responsible, sustainable fishing in comorian waters, to active scientific and technical cooperation and, above all, to active, concrete assistance in combating illegal, unreported and unregulated (iuu) fishing and in combating the increased activity of somali pirates.
+the common denominator for all of them is responsible and sustainable fishing.
+while the process is still somewhat chaotic and driven mainly by the energy of its biggest enthusiasts and some member states, it is difficult not to appreciate the steady progress.
+i would like to thank the commissioner very warmly for his information, because today's debate on the alternative fuels infrastructure action plan must stimulate - or should stimulate - the development of cars powered by natural gas, hydrogen or electricity from the grid, and thus also help us in the fight against air pollution and greenhouse gas emissions.
+however, this is easiest to do at the municipal level, where there is a large amount of transportation that is primarily aimed at reducing emissions, if clean technologies are used in municipal vehicles.
+the development of alternative fuels infrastructure is an important step towards reducing co2 emissions.
+the country is an important partner for the european union in the fight against climate change.
+we have set ambitious targets to reduce emissions by 40% by 2030. but remember that the eu is only responsible for about 10% of global greenhouse gas emissions.
+agriculture and forestry, in addition to having a significant potential to absorb emissions, also have a number of social and economic functions that need to be recognised in the context of the union's climate policy.
+therefore, emissions reduction actions based on these sectors must take into account their paramount role in ensuring adequate food and energy security on our continent.
+it should also be borne in mind that emissions from agriculture in the union have fallen by almost a quarter compared with 1990. it is also necessary to take into account the significant differences in the level of afforestation in the member states and to take due account of the climate action taken by some countries in the past.
+i do not support the gerbrandy report because i do not support the speculative eu ets for industry and energy.
+these manufacturing and energy sectors need to make significant efficiency adjustment changes in order to meet the climate target set at cop 21 in paris.
+i would remind you that the extremely difficult intra-eu negotiations on the revision of the eu ets directives have only recently been concluded, and the tripartite negotiations on the winter package, in particular on energy efficiency and renewable energy, are not yet concluded.
+i am not in favour of opening up and increasing the union contribution, in the form of nationally determined contributions, to 40% in 2030. i believe that excessive ambition to reduce co2 emissions could have a negative impact on the work on the adoption at cop 24 in katowice of the paris agreement implementation package, which is the main objective of my country as the host of this conference.
+preventing dangerous climate change is one of the eu's priorities.
+it takes a wide range of initiatives to protect the natural environment in which we live every day.
+in the context of today's debate and the two reports on greenhouse gas emissions, we must remember that the eu's ambitious targets must be accompanied by a balance of power between member states.
+the commission should therefore adopt a position that will lead to the implementation of the paris agreement in a balanced and comprehensive manner and prevent further climate change.
+we must remember the important role of forests, which are also responsible for reducing co2 emissions, but we must not forget that the forestry sector must meet the demand for wood and that its functioning depends on the daily activities of operators relying on resources obtained from forestry.
+effective action to combat climate change should therefore include comprehensive actions that enable us to integrate economic and climate policies, as well as actions that allow for the efficient implementation of previously adopted legislation.
+poland, which recycled 20% of municipal waste in 2012, was joined by germany, which recycled 64%, austria, 59% and belgium, 57%.
+respecting resources, using them efficiently and reducing waste are the main objectives of a circular economy.
+but first, it should be emphasised that our main objective should be to prevent waste or to extend the life of products.
+the closed loop is of particular importance for the bioeconomy and renewable bio-based raw materials, including bio-waste, including food waste.
+one of these solutions is to promote alternative energy sources in the transport sector, such as biomethane, a fuel obtained from the recycling of organic waste.
+if we want to develop electromobility, we need to invest in research into a new type of battery that is produced in a sustainable way and is also recyclable.
+we are not keeping up with the reduction in the dumping of hazardous waste, the production of hazardous waste and the lack of responsibility for the production of hazardous waste.
+it's a huge waste of talent that reduces the quality of women's lives, but it also has real economic costs.
+the positive assessment of the compatibility of the implementation of these instruments to date with the sustainable development goals and the new european consensus on development is an important element of the report.
+in human nutrition, protein is an essential and indispensable component of nutrition, as is energy , which can be supplied in the form of plant or animal protein.
+the cultivation of high-protein crops could bring a number of environmental benefits and increasing the production of high-protein crops could make an important contribution to the sustainable development of the european food and agriculture sector.
+the situation in the eu with regard to imports of plant proteins from south america is not sustainable and indicates that we should take more vigorous action, in particular to make these imports more sustainable.
+phenomena such as globalisation, climate change, terrorism and social exclusion are exerting polarising forces inside our european union.
+it is the tool that best meets the challenges of infrastructure investment, environmental investment, investment in human capital, entrepreneurship and public administration reform.
+there are areas in the waste management industry that don't tolerate any differences in schedule.
+the report deals mainly with the issues of reporting simplifying this system, aligning the reporting provisions with the other waste directives.
+all of this is causing us to increase the number, the amount of waste, and that's something we have to deal with, not just reporting, not just controlling.
+on this occasion, i would like to - while appealing to us not to lose our attention, not to waste our resources - to return to the wise policy of the european parliament, the european institution, towards the countries of the east: towards moldova, towards ukraine, also towards belarus - to remember that these, our closest neighbouring interests, require extraordinary care.
+the reform is also important to pave the way for connected and automated cars, to reduce air pollution and to reach our climate target, which is extremely important.
+the scandal involved software manipulation and false co2 emissions.
+this is of fundamental importance for the safety of passengers and the protection of the environment.
+that's good, because organic farming is about environmental sustainability, it's about protecting biodiversity, it's about healthy and safe food, and it's about treating animals ethically in food production.
+i agree with the rapporteur that investment and innovation in a competitive environment are crucial for the future of europe.
+it does not legitimise posing a direct military threat to its neighbours, such as the exercises in zapad or environmental threats such as the ostrovet nuclear power plant.
+the issues that have been raised are the issues you raised here: the high number of killings associated with the campaign against illegal drugs, the climate of impunity, the declared withdrawal from the international criminal court, the possible reintroduction of the death penalty, as well as a possible lowering of the age for criminal responsibility to nine years.
+this has been raised in different declarations and statements by the eu28 human rights council, the high representative’s spokesperson and we addressed it in a very comprehensive way in the eu special incentive arrangement for sustainable development and good governance (gsp+) monitoring report that i discussed here with you earlier this year.
+the issue of the gsp+ commitment was raised by several of you, as you remember we discussed this in this plenary in january where we highlighted that indeed, there are several areas of progress by the philippine government when it comes to the work on gender equality health, education, social and economic rights, labour rights, fight against corruption, protection of the environment.
+that is why the eu, together with our partners, has put a strong focus on gaza in the last month, with two ad hoc liaison committee meetings in brussels and a successful donor conference on the gaza desalination plant, with a project on energy and more humanitarian aid.
+from this debate i conclude that it is our common goal to ensure a sustainable solution is found for the situation in gaza, with a return to the palestinian authority to resume its full responsibilities on the strip, and sustained opening of the crossing points.
+one instead of ten spirit goes against the spirit of the vote in the committee on industry, research and energy, which was 57 against 6. why is it now on the agenda?
+i'm calling for you to stop pushing this already really overblown issue into every possible resolution - whether it's on trade, on the philippines, on climate, on the media.
+let me remind you that the recent historic decision by the global shipping industry to cut for the first time its greenhouse gas emissions is both a challenge but also an opportunity.
+more particularly, under the research pillar of leadership 2020 we have actions to exploit new market opportunities and support zero-emission and energy-efficient vessels.
+i think that the circumstances are more favourable this time than when i was personally in charge of the budget, because there is no longer a climate of austerity, no longer a climate of austerity in europe, there is a willingness to increase contributions.
+it is the most economically and socially efficient form of transport, with the added benefit of a positive environmental impact.
+it should be noted that this crime occurs most often in two situations: harassment by former partners (where women are the most frequent victims) and in the online environment (mainly on social media).
+the rapporteur sees an urgent need to take action to ensure a profitable and sustainable future for sheep and goat meat production in europe.
+the main threats to freedom of expression include areas such as: violence, threats and pressure on journalists even today in the member states of the european union journalists continue to be the target of deadly attacks the digital environment have undoubtedly provided new and profoundly transformative tools for participatory democracy, extending it in a revolutionary way and giving citizens, who are already users of information, the ability to create it.
+i believe very strongly in the virtues of free trade, provided there is reciprocity, provided there are social and environmental standards.
+maria arena is well aware that many free trade agreements are based on negotiating mandates, sometimes given many years ago, which do not take into account certain positive developments, which are necessary in terms of social and environmental standards.
+i would like to point out two very important things: there are only four areas that are actually funded by these funds - i will remind you that this is about 80 billion - and these are environment, small businesses, innovation and infrastructure.
+this was the last set of proposals under the energy union, and i am proud that we managed to deliver on this ambitious project well ahead of the end of the mandate.
+this should leave us enough time to negotiate the entire energy union into law and leave it as a significant legacy of this mandate.
+let me move on to sustainability.
+transport is responsible for almost a quarter of europe’s greenhouse gas emissions, and this share is growing, as opposed to other sectors.
+it has huge potential for investment and jobs – we are talking about eur 250 billion per year as of 2025. with this action plan we put forward a robust set of measures, for example ensuring access to critical raw materials and limiting their use; stepping-up eu research and innovation to better link it with industry’s future needs; establishing robust regulatory requirements for safe and sustainable battery production to comply when placed on eu markets; developing the skills we need in europe to deploy the next generation of high-performing, sustainable battery technology.
+to conclude, i would like to underline that this is the last time a legislative package will be proposed under the energy union strategy.
+it is clear that the energy union and its transition to clean energy will have a strong, long-term positive impact on all of us and on the future of our mobility.
+together, with my colleagues, we are looking forward to discussing with you this package in greater detail, and i hope we can accelerate the legislative adoption of the energy union files.
+first, we need to tackle the growing emissions of this sector, which are set to increase by almost 10% by 2030. second, we want to support transport operators and help them to reduce their fuel costs.
+the proposal will apply initially to the four most representative categories of vehicles, which are responsible for almost 10% of heavy-duty vehicle emissions.
+manufacturers will be able to put on the market more rounded and aerodynamic heavy-duty vehicles, reducing emissions and improving road safety.
+this system of super credits will reward those manufacturers who will invest more in innovative technologies while preserving the environmental integrity of the co2 targets.
+in conclusion, the key benefits of these proposals are that we will fight climate change and improve air quality; transport operators, mainly small and medium-sized enterprises, will save money at the pump – this proposal will help them save eur 25 000 in fuel costs in the first five years of the use of a new truck; we will keep and create new jobs here in europe; we will use and import less oil, and the proposal will in total save more than 200 million tonnes of oil up to 2040; and last but not least we will set the right conditions to invest and innovate here in europe.
+autonomous mobility holds the enormous promise of making transport safer, more accessible, inclusive and sustainable, and on cooperative, connected and automated mobility the commission sets out a clear forward-looking and ambitious european agenda based on three core pillars.
+the regulation on the european maritime single window environment will establish harmonised reporting interfaces, procedures and data formats for ships calling at eu ports.
+these adverse processes are leading to over-concentration and industrialisation of production, and to the disappearance of the european model of agriculture, sustainable agriculture, environmentally friendly agriculture.
+the participation of young farmers and the renewal of generations in the agricultural sector are essential to maintain profitable food production, as they ensure the sustainable development and long-term competitiveness of european agriculture.
+agriculture is creating renewable energy.
+agriculture also has an environmental and climatic dimension.
+so you could say it's an agri-environment-food policy.
+i strongly emphasise that the next mff must be based on the well-established policies of the union, which should aim to promote peace, democracy and security, as well as long-term and sustainable economic growth, research and innovation, and to ensure high quality employment and strengthen economic, social and territorial cohesion.
+so if someone wants to destroy their environment to give us cheap goods, we should be happy because we don't have to destroy our environment.
+we are the parliament of europe, not the world, and we should be concerned about our environment first and foremost.
+it wasn’t an easy job, but you managed to accommodate different positions and find compromises on such sensitive issues as trade and sustainable development (tsd) chapters, global value chains and corporate social responsibility.
+the next item is the report drawn up by elisabetta gardini on behalf of the committee on the environment, public health and food safety on the proposal for a decision of the european parliament and of the council amending decision no 1313/2013/eu on a union civil protection mechanism (com2017/0772/2) c80409/2017 2017/0309 (cod)) a-0180/2018.
+i would like to congratulate you on this report, because i believe that solidarity in the face of disasters is the most important barometer of our european sensitivity, and that it is important to have the equipment and the conditions to provide aid and to react quickly to dramatic situations, because human lives, the environment and the national heritage are at stake.
+member states differ in their level of socioeconomic development, which translates into levels of pay and the legal environment.
+member states should also provide entrepreneurs with the right conditions for their business to operate, a fair and sustainable social policy, a friendly legal environment, predictable and easy procedures, access to finance and development opportunities.
+we're not creating a business-friendly environment by doing that.
+if we create a favourable environment for investment and then for doing business, then no one will move to a neighbouring country in the european union or outside the european union.
+i wanted to ask you: given the situation, that we are to standardize everything in the european union, does this mean that you want to standardize the conditions for doing business at very high costs, with very high bureaucracy, with a very high level of obligations, or vice versa - on the basis of deregulation, reducing bureaucracy, reducing taxation, reducing obligations, better lawmaking and a business-friendly environment?
+the promotion of gender equality is key to ensuring that sustainable development is inclusive and beneficial for all.
+the introduction of ecodesign requirements is a step in the right direction and i believe that parliament should support this initiative as it allows for more efficient use of energy.
+this translates not only into reducing harmful emissions, but also into increasing energy security.
+that's why i've proposed an amendment that brings them closer to the waste package.
+the pillar constitute the eu’s main implementation tool for translating the un’s sustainable development goals into a european context.
+the fact that the un has declared may 15 as international family day is of course important, but it is not the celebrations or the proposed - even beautifully designed - flags that are the problem, but the creation of the right conditions for the development and functioning of the family, which plays a huge role in the education of young generations, being an environment in which children learn basic values, love, respect or selfless help.
+we know from 2014 that greenhouse gas emissions from heavy-duty road vehicles are 5% of the total greenhouse gas emissions in the european union, up to 20% of the greenhouse gas emissions from all transport (maritime, air and of course road) and 25% or one quarter of the co2 emissions from road transport.
+such a detailed approach is necessary to work closely with the various international organisations in order to contribute effectively to the monitoring and reporting of co2 emissions from heavy-duty road vehicles and to be able to draw the appropriate conclusions and consequences.
+we are very keen to maintain a compromise which takes account of our well-known concerns about environmental protection on the one hand and intellectual property and international competitiveness on the other.
+ambitious targets, the european union's next step towards a low-carbon economy.
+as we know, trucks are 5% of the vehicles on the road, but 25% of the pollution and carbon emissions.
+economic development, we all know, requires an increase in the demand for road transport, and necessarily, that's associated with co2 emissions, so of course, switching to another form of engines, drives is very important, very important, but looking at these constraints, let's not forget that these are also jobs, these are also costs to consumers.
+we are talking, of course, about a very important subject, because it is about climate and air protection, and this is very important in this day and age.
+because of course it's very easy to think in the blink of an eye that we need to cut emissions by 15%, 30%, 50%, 70% this year and this year -- you can just throw it away -- but the question is, is it technically possible?
+we have talked about immigration, the euro, trade, but nobody has said anything - except perhaps our colleague anna fotyga - about nord stream 2 and the aggressive energy policy towards at least a quarter of the countries lying to the east of the european union.
+the eu-nato joint declaration was signed on the sidelines of the nato summit in warsaw in 2016. the report provides a detailed analysis of the similarities and differences between the two organisations and their adaptation to a new and still-evaluated geopolitical environment.
+it's important not to waste time.
+it is said that the waste package cannot be achieved without the financial support of cohesion policy, which the european commission is now seeking to reduce drastically.
+there is no doubt that further intensive action is needed to improve waste management and put more emphasis on efficiency improvements and reuse of products.
+it has been and is an innovative policy, creating modern forms of economic activity as well as new technological solutions that promote environmental good and combat climate change and social exclusion.
+recycling of waste leads to a reduction in environmental pollution and the consumption of natural resources.
+these bioeconomy activities are particularly visible in rural areas and in agriculture, where renewable energy sources, for example, are well developed, serving rural development and agriculture.
+the breakdown of secondary raw materials into starting components, although theoretically possible, would require a higher energy input than that which would have been required for the use of primary raw materials.
+from the exergy balance, we see that 'simple recycling' has its energy limitations.
+it is easy to see that 'simple recycling' would be extremely complex and energy-intensive in this case.
+we cannot therefore accept the preference for renewable energy as a priority shipment.
+while i support the transition to a circular economy model, i think we should do this very carefully, so that it doesn't compromise energy security.
+the report deplores the waste of food.
+the commission's proposal for a regulation on the protection of the environment is a very important one, and i would like to thank the rapporteur for the work he has done in this area.
+this parliament alone generates as much waste as many cities in poland, and its production of excessive amounts of legislation leads to many other people also wasting time, paper, resources and electricity to get to know it.
+the 2030 agenda for sustainable development, in particular sustainable development goal (stg) 17, stresses the need for true multi-stakeholder partnerships.
+so when you only use aid, very often - i don't want to say only, but very often - you only use resources, capital, and therefore not only money, but also energy, time, etc.
+here the commission is already promoting sustainable cultural tourism through a dedicated european initiative as part of the european year of cultural heritage.
+therefore, action to promote the rights of these groups should be better integrated into the development policy of the european union, especially in the context of the achievement of the sustainable development goals.
+we are combating early and forced marriage through promoting sustainable social change, through our rights, equality and citizenship programme.
+finally, education is the main channel through which sustainable progress in ending child marriage will be achieved.
+i remind you that the paris agreement was reached because it did not include decarbonisation in its final form, but instead included the importance of forests in absorbing global co2 emissions.
+it is not clear why you are proposing to introduce the concept of climate refugees.
+many scientists question the extent and causes of climate change, much less the ability to prevent it.
+worse, parliament is taking on the climate maneuvering with the means that have failed it in all other areas, namely, subsidies, regulations, arbitrary choices of what it thinks is the best solution, making predictions 30 years ahead of what will happen in 2050, lecturing, printing its documents on paper.
+we need to charge people fairly for the cost of using the environment and see what technology will allow them to avoid paying for it.
+a spectacular example of how not to fight climate is the idea of the climate refugee, which will make people eager to run for office and perhaps even destroy their environment just to get caught.
+the effects of climate change are having an increasingly serious impact on many aspects of the natural environment and, consequently, on human life.
+the european union is a major player in climate action and plays a leading role in international climate change negotiations.
+it uses 'climate diplomacy' to build strategic alliances to fight climate change together.
+this is a key element of preventive action and sustainable development on climate-related issues.
+'climate diplomacy' is a form of targeted foreign policy aimed at engaging third country governments and non-governmental actors around the world to promote the fight against climate change.
+its main strategic objectives are to reduce greenhouse gas emissions and to combat poor environmental policy.
+supporting developing countries in their search for sustainable and environmentally friendly development pathways is particularly important.
+in february, the eu foreign affairs council concluded that climate security is a very important issue and stressed that climate change has a significant impact on international stability and security.
+the council calls for effective response to climate security threats in different policy areas and stresses the importance of taking action immediately after receiving specific analyses of climate risks.
+these are issues of our safety, the quality of public services, environmental protection, and in many cities, also immigration and social exclusion.
+we expect that our copyright package will contribute to increasing the competitiveness of the european union’s cultural and creative industries in the digital environment.
+rules on liability and intellectual property rights play an important role in creating this environment.
+i voted against the report on climate diplomacy, which, while it touches on important issues such as the link between climate change and natural disasters and the achievement of the goals of the paris agreement, also touches on difficult issues to accept, such as the link between climate change and migration.
+it would be worthwhile to raise awareness among union citizens of the link between global business, migration, poverty and conflicts over access to resources, which in turn leads to environmental destruction.
+i think that climate change is a given for almost everyone.
+the european union should therefore become not only a european, but also a global leader in climate action.
+given the differences of opinion that have emerged ahead of the summit, the agreement on a common position is a relative success, especially in the complex geopolitical climate around europe, as it represents the will to seek a common european response in this area.
+i think that relocation would not work in the current political climate in europe, where it could only fuel xenophobic or anti-european movements.
+at the same time, a number of important reforms have been implemented, including in the areas of the labour market, tax collection, sustainable pensions and bank restructuring.
+we think only in terms of reforms, sustainable situations, including on the economic front, and the rule of law and democracy in the countries that are around us.
+this is the only way to have sustainable security and peace in the country.
+we are working on women’s empowerment, the rule of law and human rights, which are essential to build sustainable security, sustainable peace and development.
+on 17 may, a constitutional referendum was held in a climate of intimidation and repression.
+we share the view that overcoming language barriers in the digital environment is essential for an inclusive society, a vibrant digital single market and for unity in diversity.
+forests are nature’s most generous renewable resources.
+the 2030 agenda for sustainable development and the new european consensus on development have reaffirmed the urgency to tackle illegal and unsustainable exploitation of forests by supporting better governance.
+and, most importantly the benefits go beyond forests, contributing to larger eu initiatives such as the protection of indigenous people’s rights and environmental defenders.
+the commission is currently concluding the forest law-enforcement, governance and trade work plan for the period 2018-2022, and the european union has also included environmental crime linked to forests in the priorities of its overall fight against organised crime for 2018-2021. in the end, i would like to say that the commission hears your call for more measures to halt deforestations.
+the eu is already doing a lot through the forest flagship initiative i just mentioned, through the mechanism of the reduced emissions from deforestation and degradation.
+it will seek to mainstream environmental protection in a geographical pillar and complement this by targeted thematic actions on sustainable forest management, illegal logging and conflict timber.
+i would like to express my full support for their continuation and even strengthening beyond 2021. interreg is a programme that, through its 'hands-on' approach, has proven its effectiveness in establishing cooperation in areas such as health, education, the environment and trust-building between local communities on both sides of the border.
+draftsman of the opinion of the committee on industry, research and energy.
+the eu and china could also work together to find solutions to global problems, such as climate change, in the face of washington's increasingly isolationist policies.
+a lot of energy was spent on it, a lot of bad blood was shed, and the typical share of bullying and invectives were thrown around, but the real question that you should ask yourself and we should ask ourselves is: ‘is the european union in a better shape now than it was when you took office?’ and i think the answer is clear: no.
+while stressing the importance of diversifying energy sources, the much-needed european solidarity is being buried at the bottom of the baltic sea by agreeing to the nord stream i and ii gas pipelines.
+furthermore, the achievement of the union's economic and social objectives, as well as its competitiveness and sustainable development, are closely linked to high-quality education.
+of course, especially in the case of the public pillar, the state should provide guarantees and adequate collateral for the contributions, investing them in a responsible, safe and sustainable way.
+i believe that this regulation along with gdpr will contribute to securing the fundamental rights of private persons in the digital environment.
+eu environmental policy helps to protect nature and to take care of people's health.
+unfortunately, the statistics are devastating: more than 8 million tons of plastic are entering our seas and oceans every year, and if this trend continues, there will be more plastic waste in the oceans than fish by 2050. the great pacific garbage patch weighs more than 43,000 cars and covers an area five times the size of poland.
+the waste is damaging marine life and plants, entering our digestive systems and causing a variety of diseases.
+we need to start with education and awareness raising for citizens that as we increase the amount of plastic we use every day, we are harming ourselves and the environment.
+i am pleased to see that a large part of society, as well as businesses and smes, are beginning to put emphasis on the rational management of waste and the use of biodegradable or reusable plastics.
+i would very much like, and i wish for all of us, that these practices become part of our daily lives and become part of our consciousness, which will certainly contribute to the improvement of the environment.
+nor can we make investments in modern transport dependent on climate objectives alone.
+we must also not forget about sustainable transport, which will allow for better standards and lower co2 emissions.
+secondly, on financing: as you know, the commission has proposed an ambitious budget envelope for research and development for the next multiannual financial framework period 2021-2027. new mobility solutions should be among the main beneficiaries of the horizon europe programme, with almost eur 15 billion for mobility and energy activities.
+of course, our connecting europe facility (cef) will also continue to support the deployment of new, modern infrastructure equipped with intelligent transport systems, and for the use of alternative sources of energy.
+triple ‘vision zero’, no road fatalities, no pollution and no congestion: this is the commitment that can be achieved with such a holistic approach.
+the election took place in a highly restrictive environment and it was clearly not representative of the democratic will of the cambodian citizens.
+we want to serve as an example and an inspiration for settling all bilateral issues in the western balkans and we strongly support finding sustainable solutions, founded on european values and international law, that will lastingly stabilise the region and will prepare the region for its integration into the european union.
+the strong motivation, and the model in the search for the solution of this difference with greece, came precisely from the european union, as the most successful peace project in the world: a model that has resolved great historical conflict situations, turning them into sustainable communities of friendship and trust.
+it is almost a rule that new regulations have been introduced as a result of previous ones destroying the environment, sometimes without imagination, not to mention conscience which have caused enormous losses in human and animal health.
+the 'one health' principle should apply all the more as human and animal health and the environment are interlinked and diseases require to be tackled by introducing measures such as rapid diagnostic tests, hygiene, control of antibiotic prescriptions (also treated as antibiotic growth factors) or antibiotic abuse, especially in animals, and the administration of alternative antimicrobials.
+the vote will take place on wednesday 3 october 2018.
+the next item is the debate on the question for oral answer addressed to the commission by ms eva kaili, on behalf of the committee on industry, research and energy, on distributed ledger technology and blockchain: building trust in non-bank fund flows (o-000092/2018 - b8-0405/2018) (2017/2772 ((rsp)).
+another objective is to create a european blockchain services infrastructure to support cross—border public services with the highest standards of security, privacy and energy efficiency.
+their work aims to stimulate a competitive blockchain environment and the conditions of legal certainty that are needed to sustain investments in distributed leisure technologies and blockchain applications across the european union.
+the paris agreement cannot therefore be considered as a complete move away from coal, since we can reduce carbon emissions, among other things, by using the latest technologies in the construction of new power units.
+in transport, for example, we can increase the share of hydrogen as an alternative fuel, which will also help us to reach the so-called ambitious climate goals of the european union.
+but i think that some of the proposals that have been dropped in this room are unfortunately leading to a waste of effort.
+we need to take care of the environment and the climate, and create incentives for the production and use of low and zero-emission cars.
+i believe that environmental objectives can also be reconciled with the pursuit of jobs and economic growth.
+a reduction rate that is too high can raise that price too rigorously, and as a consequence, in countries where incomes are lower, it can even temporarily increase co2 emissions because there is no money to buy new, relatively more expensive cars.
+i think we can all agree that the most energy efficient cars are electric cars.
+cars are the final link in the chain of energy flow from primary to usable kinetic energy.
+therefore, their harmful environmental impact should be measured by a comprehensive efficiency indicator, calculated as the ratio of the efficiency of each link in the chain.
+the comprehensive efficiency estimate for combustion engine vehicles is the production of fuel in refineries (petrol or oil) from oil with an energy efficiency of e.g.
+for the propulsion of vehicles with electric motors, we can start from about 40% of the energy efficiency of the generation of electricity and about 80% of the energy efficiency of its use in the energy chain, which gives an estimated final vehicle efficiency of about 30%.
+as you can see, the energy efficiency of 'electric vehicles' would be about three times higher than the energy efficiency of combustion vehicles.
+assuming that 1% efficiency increase is about a 2% reduction in co2 emissions, we see that a complete switch to electric mobility would result in a 40% reduction in co2 emissions.
+regarding the question about the baltic states and our energy market, it is so important today that we have good connections between finland and estonia – i mean two estlinks.
+as i said before, for all three baltic states it is very important to synchronise our energy market with the rest of europe and with the middle of europe.
+regarding energy security, our views on nord stream 2 are well known.
+in our opinion, the interconnections between the union and third countries must be subject to the rules covering the energy union.
+the interconnectors with third countries should seek to diversify the union’s energy sources and increase the union’s security of supply.
+as i said, the energy union is the key to estonia’s connections.
+the nordic energy market has brought down energy prices and provided more services and opportunities.
+the protection of the environment, including air, is perhaps one of the most important goals of our civilization.
+one of those goods that i mentioned at the beginning is the natural environment, a clean, healthy natural environment, but the other equally important good is the human being, his family, his work, his life, his development opportunities.
+the state and the international community are also such assets, and therefore the objectives we set for ourselves in the field of environmental protection should take account of the needs of people, society and the countries of the international community.
+i supported the directive, i supported the report and i hope that the pace of response to the changing business environment for vat will be faster and better.
+we just passed a carbon-cutting bill in the same session, and now you're going to let buses go up into the mountains instead of down into the city and emit carbon dioxide.
+but equality, equity, sustainability - these values require us to treat rural, mountainous, remote areas and the people who live there, the local communities, in the right way.
+we should focus our energy on activities that activate and empower the unemployed, activities that push for decent work for everyone, activities that support women in particular to successfully balance family and work responsibilities.
+in turn that makes the kind of technologies possible which bring new jobs and improve our environment and daily lives: the ‘internet of things’, artificial intelligence, fintech, ‘smart cities’ and electronic health systems, to mention just a few.
+draftsman of the opinion of the committee on industry, research and energy.
+contracting authorities must pay attention to the quality and sustainability of projects.
+so it's not just about reducing the density of the population, getting natural light, getting better air quality, or reducing ammonia emissions.
+i'm the representative of the region that's hosting the climate conference in katowice this year.
+i am proud to be from poland, a country that has made some of the biggest reductions in its emissions in decades and which will be hosting the climate conference for the third time.
+i hope that when you come to katowice, you will be able to appreciate the efforts of poland, and in particular the silesian region, which has made very good progress in reducing the emissions of its economy.
+but i also hope, commissioner, that you will take the trouble to understand the scale of the challenges facing mining regions in the face of the european union's climate policy.
+the main focus of this year's climate conference will be to develop mechanisms to implement the paris agreement.
+it states that our aim is to achieve a balance between emissions and removal capacity, as defined in the paris agreement.
+and as far as biodiversity is concerned, poland is the best example of biodiversity that is well-managed and well-managed.
+first of all, i wanted to point out that if the united states is pulling out of the agreement with the 40% emissions reduction plans, what do you think will happen - i'm talking to those who are proposing the increased amendments - when we propose 50%, 55% or 45%?
+second, consider how much carbon a society has emitted over its history, because when england was smoking through the chimneys of the industrial revolution, other places were still riding on donkeys in the fields, so it's not unfair that now all three quarters of us are reducing those emissions at the same rate.
+third, this reduction can only be achieved by fairly charging all the costs of emissions, not by pointing out any technologies, much less calculating degrees, if the climate is to cool, because nobody really knows.
+and there's the clean coal technology centre, which is actually the only one in europe where there are really technologies that are particularly important for climate protection.
+it welcomes the fact that the envi committee has taken account of the demands made in particular with regard to the protection of hundreds of thousands of jobs in the eu's energy-intensive industry.
+it also took into account the positive impact of digitalisation and space programmes, and above all of innovation in the energy sector itself.
+i also wanted to emphasize that our biggest, most important goal in katowice is the katowice package, to really engage the rest of the world in achieving climate goals.
+i'm a big proponent of reducing these negative impacts of industrial activity, economic activity on the climate.
+the problem of single-use plastic packaging polluting the environment, especially the marine environment, is a major environmental challenge.
+it is also incomprehensible that different rules apply to sup and to plastic bottles, foil and plastic packaging, which are the main sources of long-term environmental pollution.
+i wanted to draw your attention to the activities of an institute called transport and environment, which is financed by european taxpayers' money, european commission money, among other things.
+this institute produces such nonsensical reports, in which it deplores, for example, how poles import diesel cars from western europe, seeing some damage to the environment.
+if these cars exist and are driving in germany, what is the environmental damage of driving in poland now?
+if they buy used cars, it's better, because they've used some of the environmental resources to make these cars, and instead of wasting them, they'll be serving the poor.
+i would also like to mention the 2030 agenda and the un sustainable development goals, which are also included in the european consensus on development.
+if this has not led to a response from the council, such a pointless job is a waste of taxpayers' money.
+i have personal reasons, because for my environment, which was part of the great solidarity movement - from this environment donald tusk also grew up - british parliamentarism was a certain role model, it was a model and inspiration worth following, because of its quality, because the truth triumphed over the falsehood, and political dispute was a way to educate people on the issues that were most important for the country.
+the ubiquitous plastic has been polluting the environment for years, but i abstained on a report on reducing the impact of certain plastic products.
+it is also the result of previous policies that, 'driven without imagination', have led to pollution on an unimaginable scale.
+therefore, there is a need to reduce the environmental disaster by effective methods.
+beyond legislation, there is an urgent need for information, education, both for packaging manufacturers and for the public worldwide, and the involvement of scientists to reduce the problem of pollution.
+i'm a big believer in taking care of the environment, taking care of the ecology, starting with yourself, starting with the simple behaviors in your own household.
+and you should know that 70% of all the waste in the oceans is plastic.
+the next item is the joint debate on the report by mr claudio cipriana tănăsescu, on behalf of the committee on the environment, public health and food safety, on the authorisation and supervision of veterinary medicinal products (com (2014) 0557 - c8-0142/2014 - 2014/0256 (cod)) (a8-0035/2016), the report by ms françoise grossetête, on behalf of the committee on the environment, public health and food safety, on veterinary medicinal products (com (2014) 0558 - c8-0164/2014 - 2014/0257 (cod)) (a8-0046/2016) and the report by mr w. w. on the proposal for a regulation of the european parliament and of the council on the placing on the market and development of veterinary medicinal products and on the application of council directive 90/525/eec on the approximation of the laws of the member states relating to the labelling, presentation and advertising of food and feed containing hazardous substances (com (2014) 0145 - c8-0258/2014) and commission decision 2014/577/eu) (com (2014) 01458).
+and fourthly, will it become more common for road users to also participate in improving the environment?
+air pollution has enormous social and environmental costs.
+the european union is facing a shortening of life expectancy due to air pollution.
+i think anyone who respects the environment, respects other people, will lean on this directive.
+but of course i'm leaning towards all those voices that say we need to take care of the environment, we need to fight before it's too late.
+but something has to be done, we cannot be indifferent to these challenges that are related to climate protection, with respect to those who do not have transportation and are the negative beneficiaries of the development of automobiles.
+my answer is that we cannot ignore the impact of cars on infrastructure wear and tear and on the environment at local, regional and even at the global level.
+cars are responsible for the lion’s share of external costs – two—thirds of co2 emissions in road transport, which is 60% of all emissions in transport – so we cannot simply ignore that.
+most agreed that, alongside zero-emission vehicles, there should also be vehicles that offer the greatest chance of reducing air pollution, both by dust, nitrogen oxides and other pollutants.
+this will promote clean transport, support the development of new technologies such as electric cars or those powered by alternative fuels, and thereby also improve air quality, help us combat smog, a new challenge in many cities, and lay the foundation for achieving the climate goals agreed in the paris agreement.
+it's not that i'm against all these environmental laws, i'm just fighting for them to happen.
+but i have to admit that i am surprised to see from time to time, on the left of the political spectrum, that this concern for the environment and the poorest of the poor is not going hand in hand.
+i can say that for example this indicator that 70 percent of buses are purchased through public procurement shows how much public procurement can affect the replacement of the fleet and its quality, and the level of emissions that come from this fleet.
+we are convinced that, given the objectives we have set ourselves in the context of the circular economy and the experience of local authorities, the introduction of biofuels, in particular those derived from the recycling of organic waste, for example, is also a goal that is already being pursued in many local authorities, in the framework of so-called energy clusters or local energy communities.
+so local governments have seen this opportunity to improve air quality, because transport is responsible for 40 to 60 percent of emissions.
+however, i am convinced that the example must come from the top and that promoting green and energy-efficient vehicles in public institutions is an important step towards co2 emission levels in the european union.
+i agree that contracting authorities and contracting entities will need support, including financial support, from the union, as the ecological transition will entail costs that may be difficult for smaller entities to bear.
+clean air, environmental protection, is the condition of a generation of civilization!
+today we are looking for ways to minimize the harmful impact of road transport on the environment.
+but it is vital that this energy be produced in an environmentally friendly, efficient and... cheap way!
+we can use the latest technology to generate electricity in a low-carbon, efficient and cheap way.
+we should not be fighting polish coal, but global emissions!
+this is necessary to ensure that globalisation is used as a force for progress in favour of more sustainable and more inclusive growth.
+this report also rightly underlines the importance of promoting sustainable development with our trade policy.
+this is what the eu does with the chapters on trade and sustainable development in our free trade agreements.
+these chapters are designed to make sure that trade policy goes hand in hand with high labour and environmental standards and with the promotion of corporate social responsibility (csr) and other trade and investment practices supporting sustainable development.
+as announced by my colleague, commissioner malmström, in her 15—point action plan to make the eu trade and sustainable development chapter more effective, the commission’s aims are to ensure that countries comply with the commitments to more assertive enforcement; to facilitate the monitoring role of social partners and civil society; and to make eu resources available to support implementation of the sustainable development chapters in trade agreements.
+the commission also has other concrete trade measures in place that support sustainable development: the conflict minerals regulation; the fair and ethical trade award; and eu support for responsible business conduct.
+in line with your request, the commission will continue to work to make sure that globalisation helps bring more sustainable, more inclusive growth while at the same time defending the rules and values that the international trading order is based on.
+i supported the resolution on animal welfare, antimicrobial use and the environmental impact of industrial broiler farming and i would support any regulation that would improve food safety.
+so not only do we need to reduce the density of the population, but we need to provide access to natural light, better air quality, preferably natural food free of hormones, antibiotic growth factors, herbicides, pesticides, genetically modified feed, and also reduce ammonia emissions, which together should reduce the need for antimicrobials.
+it would also be important to protect the environment by minimizing stench and noise.
+as for the katowice summit, i hope that it will address issues such as the pointless erasmus programme, which encourages people to drive around europe instead of studying there, at the expense of others, emitting various carbon dioxide and other greenhouse gases along the way; the paperwork that this parliament also generates, all the tons of paper it prints with its resolutions, as pointless as the one on neo-fascist violence.
+maybe the two houses of parliament, which emits carbon dioxide, carrying documents from one place to another, drivers, assistants, etc.
+perhaps the question of a hotel for members of parliament that could be built next to the parliament instead of driving members of parliament around, emitting carbon dioxide through brussels and increasing traffic congestion there; perhaps the question of nuclear energy, which i do not know why many people here oppose, but which is clean energy.
+it’s a very important debate to have about the environment for our industry, to grow, to create jobs, but also to innovate, and i think the important thing in this debate is that europe has a good and strong starting point.
+europe has a very large deficit when it comes to raw materials, in particular energy.
+i think it's a legitimate question whether there can be a fair market for industry at all in a situation of liberalization and globalization, characterized by many negative phenomena with global terrorism, increasing social inequalities due to unequal distribution of goods and services, catastrophic levels of environmental risk, spreading demoralization, the disenfranchisement of nations, the destruction of religion, of tradition, with the dominance of a consumer society over the creative.
+has an action plan been drawn up for the medium- and long-term development of industry, especially strategic sectors such as the fuel and energy industry, so that the share of european industry in the union budget is above 20%?
+how does the commission intervene in bilateral agreements between member states and a non-eu third country concerning the industrial sector, and in particular the fuel and energy sector, which affect the weak competition in the economic sector?
+the way we're trying to fight this big problem -- because global warming, man-made climate change and pollution is a problem -- is as wrong as it gets.
+we should be working to create mechanisms that charge all environmental users equally for some kind of fee, and the technologies that they develop to avoid those fees are their own business, we can't impose those technologies on them.
+and the belief that if we reduce europe's share, which is only 10% of global emissions, we will save the planet's climate, is wrong, and relying on false assumptions leads to bad policies and discourages others, because everyone sees that energy-intensive industries are moving away from europe and not following our lead.
+because we have a governance mechanism for the energy union, because if we want to be credible in the paris agreement, we have to meet the targets that we set.
+four hundred thousand people die prematurely in the european union, and that's why some of the provisions, i wanted to say about that, some of the provisions in the renewable energy directive are very beneficial from this point of view, for example for the heating system or for prosumers, which is very important in the countryside.
+they may also have big ambitions for climate protection, very good, but in some regions there are as many as forty-one.
+there is a need for a just energy transition, and it was in the itre committee that we voted for a program of almost five billion euros.
+the clean energy package is underpinned by the energy union, with decarbonisation as one of its pillars.
+the focus on decarbonisation threatens to permanently lose industrial competitiveness and to have a huge social cost, especially for economies with a high share of coal in their energy mix, such as poland.
+unfortunately, decarbonization is taking precedence over energy solidarity and just transition.
+the energy efficiency directive, on the other hand, introduces an absurd requirement of an annual final energy reduction of 0.8%, thus confusing energy efficiency with energy saving.
+this will threaten economic growth and increase energy poverty.
+i have more respect for the renewable energy regulation.
+the german example shows that a massive shift towards renewable energy sources leads to high costs.
+i would like to refer in particular to the directive on the promotion of renewable energy sources.
+the important thing about this directive is that it supports not only the energy producers for whom this is their main source of activity, but above all the prosumers, i.e.
+consumers, individuals, companies especially in rural areas who have invested or will be able to invest in renewable energy for their own needs, but also will be able to store and resell it.
+secondly, i want to emphasise the role that this regulation has given to local energy communities.
+they can reshape the energy market in places that, although connected to the grid, do not have a secure energy supply.
+next generation biofuels, organic waste from agriculture, forestry is also the future in this sector.
+it's the final energy savings, miscalculated to primary energy.
+a misunderstanding of this concept, even though the definition is correct, leads to the omission of important links in the energy flow chain with the greatest potential for efficiency improvements.
+commissioner, the efficiency directive is a legislative bubble in my view, because it concerns limits on energy use rather than true efficiency.
+the energy transition is a necessity, we all know that, but the combination of these three dossiers shows how serious the differences are not just in this room, within political groups, but within individual countries.
+europeans are increasingly and severely affected by excessive air quality standards, cities are struggling with smog and pollution-related illnesses are on the rise.
+there is therefore no doubt that it is necessary to increase the share of clean energy in the european energy mix.
+the commission is also proposing to extend the scope of the directive to include the protection of the environment and the environmentally friendly use of energy.
+i am therefore against binding commitments for individual member states to share renewable energy in their energy mix.
+i would like to stress that we have a generational responsibility to pursue sustainable levels of fishing for these fish and to properly manage the marine ecosystem.
+the level of catches should be such as to achieve msy, the maximum sustainable yield, but it should be borne in mind that anchovies and sardines are an important economic element in the income of the fisheries sectors of each country.
+it should provide a balanced approach to the sustainable exploitation of these stocks, because this will lead to the stability of fishing opportunities, and that in turn will lead to the secure livelihood of fishermen.
+at the same time, it should guarantee that this management is based on the most up—to—date scientific advice regarding the status of stocks covered, and also interactions between species and other aspects related to the ecosystem and fisheries.
+whereas digitisation is rapidly growing globally our partners from developing countries continue to lag behind, losing the opportunity to fully utilise their human capital towards the achievement of the sustainable development goals.
+in order for it to be effective, bridging the digital divide has to be mainstreamed into every other policy area in accordance with the united nations sustainable development goals.
+in the european consensus on development which is a crucial document on development policy of the eu and its member states, we can find the bold statement that they will continue to support information and communication technologies in developing countries as powerful enablers of inclusive growth and sustainable development.
+the objectives pursued by both policies have not lost their relevance, and both policies have been proven time and again to have a high european added value, as well as to respond in part to new challenges such as climate protection and digitalisation.
+in the opinion of the committee on agriculture, we point out, among other things, that the cap plays a key role in achieving the union's key objectives, including food security, by providing consumers with high-quality, safe food at affordable prices and preserving the landscape and protecting the environment, as well as raising and improving the living standards of farmers.
+we therefore reiterate our call for the cap budget to be maintained at least at its current level in real terms, given the fundamental role of this policy in ensuring the economic, environmental and social sustainability of european agriculture and the further development of rural areas and agriculture.
+draftsman of the opinion of the committee on industry, research and energy.
+namely, we want to get broad support for our climate package, but there are regions in the european union whose citizens will pay particularly heavily for our energy transition.
+i think it's very important to promote energy efficiency.
+it is clear that by using energy efficiently and responsibly, we contribute to many goals.
+we're reducing its environmental impact, and we're preventing energy poverty.
+however, it is important that we strive for energy efficiency at all stages of the energy flow, and it is wrong to understand energy efficiency improvements only as reductions in energy use.
+one of the main pillars of the energy union is decarbonisation.
+the focus on decarbonisation threatens to permanently lose industrial competitiveness and to have a huge social cost, especially for economies with a high share of coal in their energy mix, such as poland.
+decarbonisation is taking precedence over energy solidarity and just transition.
+i see a lot of positive aspects in the regulation on the promotion of renewable energy sources.
+it is important that the integration of res into energy systems is gradual and respects the competences of the states and the investments made to date.
+the example of germany shows that a massive shift towards renewable energy leads to very high costs.
+we cannot achieve our climate and energy goals without these solutions.
+secondly, if we want to make a fair effort to improve the environment, we should, instead of using the casuistry that for these vehicles it will be 15%, but if they are buses, it is not, well, unless they are articulated, then again some other percentage.
+there is a very simple solution: the environmental tax should be included in the fuel the more fuel someone uses, the more they pay this environmental tax.
+i believe that taking care of the environment and the climate and creating incentives for the production and use of low and zero-emission vehicles is our common task.
+i also believe that environmental objectives can be reconciled with the pursuit of jobs and economic growth.
+therefore, i believe that a 35% reduction in emissions allows for such synergies to be maintained.
+fuel efficiency is also linked to reducing emissions, so we should aim to make and use as low-emission vehicles as possible.
+i think that in the case of trucks, we should focus on improving fuel efficiency and transition technologies such as natural gas, and in particular biomethane, which as a renewable fuel can have a big impact on reducing greenhouse gas emissions.
+however, this does not include the total co2 emissions from the previous processing of crude oil into fuels, as primary energy (refineries) or during the production of renewable fuels, including biogas.
+i think that the focus should be on taking into account the reduction in emissions that comes from the use of biofuels and alternative fuels.
+to this end, the european commission should develop a new methodology for an objective way of calculating total emissions.
+the new methodology for advanced and renewable liquid fuels, including gaseous fuels, while avoiding double counting, will allow for further substantial co2 reductions.
+– mr president, i would like to thank commissioner jourová for naming a series of elections we face in the years to come, because not only european elections, but every election which happens in each and every eu member state requires a very resilient environment – resilient to external hostile malicious interference as well as, of course, to private interests.
+sustainable development and the protection of the environment, including clean air, require an increased share of rail transport.
+this year is a year of multimodality and it is a perfect time to address passenger rights, as well, within the multimodal environment.
+this is for the benefit of all citizens, but also for the environment.
+persistent organic pollutants are chemical compounds that are not only potentially but also actually dangerous because of their specific properties, which are related to their toxicity and adverse effects on the human body, but also because they are super persistent in the environment, have the capacity to bioaccumulate and thus have a negative impact on the environment and human health.
+first of all, i would like to point out that the so-called extraterritoriality category of waste can be taken into account.
+and the second thing i want to bring to your attention is the completed sede mission in the arctic, where the safety issues of pollution with these very persistent inorganic chemicals were very strongly emphasized.
+it draws attention to the fact that care objectives are most effectively achieved in the family and environmental rather than institutional system.
+the report then emphasises the importance of such home-based care, based on relationships with family and friends, and calls for infrastructure and organisational solutions that strengthen home, family and environmental care.
+and that's worse than standing, because standing doesn't waste energy.
+we waste energy not improving our condition.
+climate and energy policy is a particularly difficult challenge for poland, where coal is the main raw material for electricity and heat production.
+i appreciate the fact that the strategy recognises the role of forests in absorbing co2, which is an effective way of reducing the concentration of carbon dioxide in the air.
+poland is open to a fair, honest and constructive discussion on how to jointly achieve climate objectives in a cost-effective, socially acceptable way and without affecting the country's energy security.
+the strategy is the most ambitious attempt to implement the paris agreement, which says climate neutrality will not be achieved until the second half of the 21st century.
+the european union is a big, but small part of this planet, and it's responsible for 10% of co2 emissions.
+the level of greenhouse gas emissions reduction that has been imposed on industry has reached the limits of absurdity.
+china's co2 emissions are almost three times the eu's combined emissions, and there's no way to change that.
+you emphasize the benefits of green energy and reducing emissions, but why are you silent about the costs?
+meanwhile, the cost of the eu's energy policy to my country, poland, is about 5 billion zlotys a year and it's still rising.
+poland will soon have the highest energy prices in europe.
+the temporary framework for climate policy must be suspended immediately and the so-called emission allowances must be abolished.
+when someone says green energy is more expensive, they forget that living in smog is expensive for countries.
+in the context of this monitoring, we must also look for additional incentives for those countries which have to bear the cost of changing their energy system, because in some cases this has a negative impact on the cost of living, the direct cost of living paid by consumers.
+it's not the way to do it, that the countries that are responsible for 10 percent of the world's emissions are going to bleed to death trying to cut their emissions by 40 percent, which is going to have less impact globally than if we were to get everybody to cut their emissions by 5 percent.
+that's a foolish attitude, because the emissions that we exclude on our land are going to go somewhere else, others will make money, we will lose, and none of this will happen.
+i absolutely agree with honourable member gerbrandy that what we started under the energy union is the deepest transformation of our energy systems since they were built in europe one hundred years ago.
+i would like to assure ms rivasi and mr eickhout that climate change is a top priority for this commission and i am ready to say that no other commission in the history of the european union did more to tackle climate change than this one, and it was in close cooperation with this house, the european parliament.
+therefore, the issues like energy poverty and the need for upskilling for those who might lose their job because of this energy transformation are so important.
+we need cleaner mobility, we need electric cars, we need less air pollution in our cities.
+therefore, we are aiming to have 35 million electric cars in europe by 2030, and i want to make sure that they will be powered by high-quality green energy batteries in europe because the market for that would be enormous: eur 250 billion a year.
+i would just say that the strategy proposed by the commission is fully in line with the intergovernmental panel on climate change (ipcc) special report.
+the special report talks of global greenhouse gas neutrality by 2070 and carbon neutrality, which is not as ambitious as greenhouse gas neutrality, in 2050. the commission strategy is far more ambitious because it nails down climate neutrality and greenhouse gas neutrality already in 2050, 20 years before what the ipcc, with the better science available, recommends at global level, so we have ambitious objectives.
+it is very clear, if you read the communication, that the commission considers that the european union should, by 2050, be among the first to achieve net-zero greenhouse gas emissions and lead the way worldwide.
+that means that we have to go through scenario 7 and 8, which are the most ambitious scenarios and those which lead to climate neutrality.
+we have delivered, as vice—president šefčovič said, all the legislation needed on the climate, the emissions trading system that performs as foreseen, regulations on, land use, land use change and forestry, the whole energy union package.
+with the cooperation of parliament, which has been more ambitious than the commission – for sure, i have to recognise it – we could have a very good dialogue and we convinced also the council to go along and now we have legislation that permits us to reach a reduction in emissions in 2030 of at least 45% – it might be bigger if other legislation comes – and this simple legislation, as the vice—president said, will lead us in 2050 to emission reduction of greenhouse gas emission levels of 60%.
+no, because now we, the commission, are inviting the european parliament, the european council, the committee of the regions, the economic and social committee and the european investment bank to consider this mission for a climate neutral europe in 2050. we have to prepare the special summit of the heads of state and of government for shaping the future of europe at the european council on 9 may 2019 in sibiu.
+in order to prepare for that council, we want to have a real council – all the relevant council formations should have extensive political debates on the contribution of the respective policy areas to the world vision because this touches every area: industry, transport, mobility – all of them –energy, buildings, heating.
+i expect in the european elections we will talk about the climate and that could be one of the most important topics.
+nine out of ten europeans think that the climate is an important problem and more than 74% that it is a very important problem.
+we have four ambitions and we also want an informed debate and that, finally, we follow an ambitious path and we are the first major economy to reach climate neutrality in 2050. it’s hard.
+the united states are on climate holidays, as the governor of california, jerry brown, said, and it is up to us to lead the way.
+there will be much conversation on it and i expect that we will reach agreement on a very ambitious pathway to deliver what is expected of the european union: the leading climate change policy in the world.
+i welcome very much your constructive approach on the various issues, although i very much do not agree on one of the statements saying that some of our proposals were a waste of time.
+it was not a waste of time, for example, the e-card proposal was – i’m completely sure – a step in a good direction, it was a step to allow our companies to go cross border and to trade cross border and to provide their services cross border.
+also i don’t think we have done enough in our trade system to protect our industry from those imports that have contributed to high co2 and other greenhouse gas emissions.
+i note that there is an opinion from the committee on development (deve) that calls for a carbon emission tax.
+our eu industries are very efficient at reducing co2 emissions.
+i would like to thank, too, all the shadow rapporteurs and the committee on the environment, public health and food safety (envi) for their excellent report on the commission’s proposal for establishing the next programme for the environment and climate action (life), and also for proceeding with this report very quickly and with a lot of ambition.
+the commission has put forward ambitious yet realistic proposals for a modern eu budget, proposing clearer and simpler eu financial rules, which ensure that the union budget delivers on the issues that matter to europeans, such as the environment.
+let me also emphasise that life will continue to be entirely dedicated to supporting the eu’s environment and climate objectives, while broadening its scope to support the increased deployment of renewable energy and improved energy efficiency.
+the new clean energy transitions sub—programme will also enable stronger synergies in the implementation of environmental, climate and energy policies.
+however, i would like to stress that life is not meant to solve all environmental and climate funding problems on its own.
+rather, this instrument is a pivot at the heart of the commission’s overall approach to ensuring that the multiannual financial framework for the period 2021—2027 will support environment and climate across all of its instruments.
+closing the gap between basic research and innovation, the new life programme will support, across the european union, the development and testing of improved methods to implement the eu’s environment and climate policy objectives.
+finally, i would like to remind you about the importance of life for nature and biodiversity.
+in addition to providing continued support for standard life projects, the dedicated nature and biodiversity sub—programme under the new life programme will include a new type of project, namely the strategic nature projects.
+these projects will specifically support national programmes to enhance the mainstreaming of nature and biodiversity into other policies and financing programmes, including through coordinated implementation of the priority action established pursuant to the habitats directive.
+next week, i will discuss the life programme at the environment council, where, hopefully, a partial general approach will be agreed.
+the programme should contribute to the further transition towards a resource-sustainable and energy-efficient low-carbon circular economy, including through the transition to a highly energy-efficient and renewable energy system.
+references to sustainable agricultural and food systems, as well as to agriculture, horticulture, forestry and fisheries, should be included in the specific objectives of the programme.
+the programme should support better environmental and climate governance at all levels, including greater involvement of civil society, non-governmental organisations and local actors.
+as regards the structure of the programme, the committee on agriculture believes that the 'environment' area should also cover sustainable agricultural practices such as soil biodiversity, agro-biological diversity, carbon sequestration, soil monitoring and environmental and water protection.
+this is the only pro-environment programme financed directly from the european parliament's budget.
+i also support increased efforts to protect the environment, to protect forests, to protect this landscape, where green is the most important thing.
+widening access to culture and strengthening relations between the societies of the member states are necessary to exploit the full potential of culture for sustainable development, but the commission's proposed solutions and initiatives are in most cases beyond the competences of the european union, in breach of the principle of subsidiarity and of the exclusive competences of the member states.
+coordination and complementarity between the work of all agencies is essential to avoid duplication of tasks and waste of european funds.
+this translates directly into the energy this parliament has been putting into the ongoing negotiations on the interoperability proposals.
+in today's debate we are discussing, firstly, the diagnosis, that is, the union's strategic environment, and secondly, the finances, which are badly damaged, both in the common security and defence policy and in the common foreign and security policy, the capacity to ensure the union's security and defence, that is, the fight for the condition of the defence industry, but also pesco the new project the csce missions and operations, but also the relations between the european union and nato and the partnership.
+this week the committee of the regions, representing our european local authorities, said how much this project threatens europe's energy security policy, how much it is ecologically dangerous, how much it harms the specific interests of specific countries.
+new laws have been adopted on decentralisation, intellectual property rights, the environment, food safety and energy, as well as a new company law.
+this trade liberalisation and regulatory approximation is the optimal instrument for bringing ukraine closer to the eu and contributing to trade facilitation, a better business and investment climate, and the sustainable economic development of ukraine.
+the vote will take place on wednesday 12 december 2018.
+the next item is the report by henna virkkunen, mariana-jeana marinescu and pavla telička, drawn up on behalf of the committee on industry, research and energy and the committee on transport and tourism, on the establishment of the connecting europe facility (com2018) 0438 - c8-0255/2018 - 2018/0228 (cod)) (a8-0409/2018).
+– mr president, i would like to thank the co-rapporteurs, ms virkkunen, mr marinescu and mr telička, the committee on transport and tourism, the committee on industry, research and energy and the other committees, such as the committee on regional development, for progressing this file in such a swift and efficient manner.
+the connecting europe facility (cef) is key for europe’s connectivity and efficiency in the strategic transport, energy and digital sector, to provide tangible benefits to european citizens and businesses and enable trade and exchanges across borders.
+i am glad to note that the key objectives of cef are part of the report, and let me recall them for the three pillars of the cef programme: transport, energy and digital.
+second, to support the transition to smart, sustainable, inclusive, safe and secure mobility.
+this is absolutely key to deliver on our vision zero – zero fatalities, zero pollution and zero paper, to save lives and provide the mobility services that citizens and businesses need.
+fourth, to promote synergies between transport, energy and the digital sector as much as possible, to make our connectivity modern and fit for emerging needs.
+we propose integrated, innovative approaches to mobility, combining efficient transport, clean energy and digitalisation.
+so let me stress now the objectives for cef energy.
+in electricity, the objective is to complete the ten-e electricity grid through the development of projects of common interest, and for the first time, we will open cef towards supporting cross-border cooperation and renewable energy.
+this will allow the completion of the internal market to foster eu competitiveness and facilitate the clean energy transition while increasing energy security.
+the new cef will thus complement the legislative framework proposed and, to a great extent, already agreed under the clean energy for all europeans packages.
+failure to take this amendment into account could significantly reduce energy security in the european union.
+the continuation of the connecting europe facility is excellent news for the people of poland, and especially the carpathian region it is an excellent tool for the development of the transport, energy and digital networks.
+in the same case, three more people were detained, historian alexei chirnii, the photographer and lawyer gennadi afanasiev, and a left-wing activist member of the environmental movement in the crimea, anti-fascist alexander kolchenko.
+the transformation, including the climate change, that is happening in europe, unfortunately, is mostly at the expense of ordinary people, and that is why they reject this transformation, and that is why the streets of french cities look like this, where the yellow vests are protesting.
+the situation is quite different in the countries of central and eastern europe, in a country like mine, poland, where, as you have rightly noted, the climate summit is taking place.
+this climate summit can bring positive results under two conditions: first, if co2 reductions are adapted to the level of development of individual countries; second, if the balance of emissions and removals is taken into account.
+it's about how to convince all citizens that our energy transition makes sense, and it makes sense to them.
+we need the citizens to be with us if we are to win the fight to protect the climate, and the european union is leading the way.
+– madam president, it is very clear that transition to a climate-neutral economy is the only possible way forward.
+this means an effective transition in terms of emission cuts, as well as increasing renewable energy and energy efficiency.
+this transition is a clear opportunity for europe to take leadership in innovative, sustainable solutions that will boost our long-term competitiveness and create jobs.
+we need a transition that is sustainable, in line with the sustainable development goals (sdgs), and that provides a cushion and a safety net for those most affected.
+also, the next edition of our employment and social developments in europe (esde) report will provide an analysis of social and green investment and their role in growth, sustainability and resilience.
+moreover, following methodology discussions, eurostat, together with the european investment bank, has issued guidance on how to treat energy performance contracts in national accounts, so that they can have a favourable impact on investment in energy-efficiency measures.
+the european union cannot achieve its ambitious climate agenda and fair transition alone: we need the support of the member states and the cooperation of the social partners’ representatives.
+the commission communication on long-term strategy on greenhouse gas emissions, adopted just two weeks ago, outlines a comprehensive cross-policy response that will guide us in the next steps.
+– madam president, as mentioned before, the transition to low-carbon economies will be challenging for certain sectors, regions and also for communities, but it will also be a chance and it will present new opportunities.
+the process will need to look at the environmental, social and the economic aspects together as part of a whole and ensure the broad involvement of all stakeholders.
+the transition to a low-carbon economy over a few decades is a challenge for all countries.
+it requires the development of new energy patterns, new business models and the need to produce and consume in a closed loop.
+failure to involve workers and citizens in the debate on the transition to a low-carbon economy could result in social unrest, such as the one we are currently witnessing in france.
+it is becoming increasingly clear that the costs of climate policy are borne by the poorest citizens.
+they are the ones who are suffering from the rising fuel and energy prices, because they cannot afford to buy green cars or to improve the energy efficiency of their homes and apartments.
+– mr president, in accordance with rule 59, as rapporteur, i would like to propose that the matter be referred back to the committee on industry, research and energy (itre) for interinstitutional negotiation.
+the subjects raised in the petitions of 2017 pertain mostly to environmental matters, fundamental rights, free movement of people, child welfare and social affairs.
+they also address issues that we generally consider to be broader issues, but that are important to our environment.
+so it's a waste of time that only amazes the voters.
