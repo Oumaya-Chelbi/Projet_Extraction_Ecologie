@@ -18,15 +18,10 @@ Produire des visualisations montrant l’émergence et l’évolution des thème
 ## Organisation du dépôt
 
 **data/**
-
 raw/ : données brutes non versionnées (ex. EUPDCorp_1999-2024.csv, trop volumineux pour GitHub).
-
 TXT_UNGDC : initialement on allait travailler avec ce corpus mais on a changé car celui-ci ne mentionne que très très peu l'écologie.
-
 processed/ :
-
 EUPDCorp_TXT/ANNEE/PAYS.txt : corpus texte nettoyé, un fichier par combinaison année × pays.
-
 EUPDCorp_TXT_Ecologie1/ : sous‑corpus écologique construit par filtrage de phrases contenant des termes écologiques.
 
 **scripts/**
