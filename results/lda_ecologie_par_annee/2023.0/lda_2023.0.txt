@@ -1,0 +1,6 @@
+Topic 0 (2023.0): 0.031*"energy" + 0.018*"climate" + 0.008*"sustainable" + 0.007*"emissions" + 0.007*"environment" + 0.007*"environmental" + 0.006*"europe" + 0.006*"change" + 0.006*"need" + 0.005*"president"
+Topic 1 (2023.0): 0.022*"energy" + 0.016*"climate" + 0.008*"carbon" + 0.008*"sustainable" + 0.008*"waste" + 0.008*"emissions" + 0.007*"environment" + 0.007*"president" + 0.006*"environmental" + 0.006*"need"
+Topic 2 (2023.0): 0.001*"energy" + 0.001*"climate" + 0.000*"sustainable" + 0.000*"environment" + 0.000*"need" + 0.000*"change" + 0.000*"waste" + 0.000*"emissions" + 0.000*"europe" + 0.000*"president"
+Topic 3 (2023.0): 0.024*"energy" + 0.017*"symptom" + 0.012*"climate" + 0.008*"environment" + 0.006*"environmental" + 0.005*"ukraine" + 0.004*"crisis" + 0.004*"damage" + 0.003*"europe" + 0.003*"russia"
+Topic 4 (2023.0): 0.003*"energy" + 0.002*"climate" + 0.001*"environment" + 0.001*"sustainable" + 0.001*"emissions" + 0.001*"europe" + 0.001*"change" + 0.001*"waste" + 0.001*"need" + 0.001*"president"
+Topic 5 (2023.0): 0.029*"climate" + 0.022*"energy" + 0.008*"sustainable" + 0.008*"environment" + 0.008*"change" + 0.007*"need" + 0.006*"emissions" + 0.006*"europe" + 0.005*"environmental" + 0.005*"waste"

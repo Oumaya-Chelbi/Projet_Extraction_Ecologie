@@ -1,0 +1,6 @@
+Topic 0 (2008.0): 0.022*"climate" + 0.017*"energy" + 0.011*"change" + 0.011*"emissions" + 0.010*"environment" + 0.009*"environmental" + 0.005*"policy" + 0.005*"carbon" + 0.005*"need" + 0.005*"sustainable"
+Topic 1 (2008.0): 0.026*"energy" + 0.016*"climate" + 0.012*"change" + 0.009*"environment" + 0.008*"environmental" + 0.007*"emissions" + 0.006*"report" + 0.005*"waste" + 0.005*"europe" + 0.005*"sustainable"
+Topic 2 (2008.0): 0.026*"energy" + 0.012*"environment" + 0.011*"climate" + 0.010*"change" + 0.008*"emissions" + 0.007*"environmental" + 0.005*"policy" + 0.005*"member" + 0.005*"sustainable" + 0.005*"states"
+Topic 3 (2008.0): 0.030*"energy" + 0.014*"climate" + 0.011*"change" + 0.010*"environmental" + 0.010*"environment" + 0.006*"policy" + 0.006*"development" + 0.006*"sustainable" + 0.005*"emissions" + 0.005*"protection"
+Topic 4 (2008.0): 0.001*"energy" + 0.001*"climate" + 0.001*"environment" + 0.001*"change" + 0.001*"environmental" + 0.001*"policy" + 0.001*"sustainable" + 0.000*"countries" + 0.000*"emissions" + 0.000*"report"
+Topic 5 (2008.0): 0.025*"climate" + 0.025*"energy" + 0.013*"environment" + 0.012*"change" + 0.011*"emissions" + 0.009*"environmental" + 0.008*"policy" + 0.006*"sustainable" + 0.006*"package" + 0.005*"important"

@@ -1,0 +1,6 @@
+Topic 0 (2009.0): 0.033*"energy" + 0.020*"climate" + 0.012*"change" + 0.008*"environment" + 0.007*"environmental" + 0.007*"policy" + 0.006*"emissions" + 0.006*"sustainable" + 0.006*"security" + 0.006*"economic"
+Topic 1 (2009.0): 0.036*"energy" + 0.013*"climate" + 0.009*"change" + 0.009*"environment" + 0.008*"environmental" + 0.007*"efficiency" + 0.007*"sustainable" + 0.006*"development" + 0.006*"economic" + 0.006*"policy"
+Topic 2 (2009.0): 0.004*"energy" + 0.003*"climate" + 0.002*"oligopolies" + 0.001*"change" + 0.001*"hiding" + 0.001*"lifting" + 0.001*"environment" + 0.001*"emissions" + 0.001*"environmental" + 0.001*"policy"
+Topic 3 (2009.0): 0.003*"energy" + 0.001*"change" + 0.001*"climate" + 0.001*"environmental" + 0.001*"environment" + 0.001*"countries" + 0.001*"sustainable" + 0.001*"policy" + 0.001*"emissions" + 0.001*"economic"
+Topic 4 (2009.0): 0.040*"energy" + 0.008*"security" + 0.008*"climate" + 0.008*"environment" + 0.007*"countries" + 0.006*"change" + 0.005*"economic" + 0.005*"states" + 0.004*"policy" + 0.004*"environmental"
+Topic 5 (2009.0): 0.003*"energy" + 0.001*"climate" + 0.001*"change" + 0.001*"environmental" + 0.001*"policy" + 0.001*"environment" + 0.001*"sustainable" + 0.001*"emissions" + 0.001*"development" + 0.001*"security"

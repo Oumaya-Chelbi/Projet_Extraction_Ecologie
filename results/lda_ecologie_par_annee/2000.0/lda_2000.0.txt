@@ -1,0 +1,6 @@
+Topic 0 (2000.0): 0.016*"environment" + 0.010*"waste" + 0.009*"energy" + 0.008*"environmental" + 0.008*"development" + 0.008*"pollution" + 0.007*"sustainable" + 0.006*"protection" + 0.005*"social" + 0.005*"health"
+Topic 1 (2000.0): 0.001*"environmental" + 0.001*"environment" + 0.001*"energy" + 0.001*"committee" + 0.001*"policy" + 0.001*"waste" + 0.001*"protection" + 0.000*"pollution" + 0.000*"development" + 0.000*"climate"
+Topic 2 (2000.0): 0.001*"environmental" + 0.001*"environment" + 0.001*"energy" + 0.001*"committee" + 0.001*"sustainable" + 0.001*"policy" + 0.000*"waste" + 0.000*"emissions" + 0.000*"climate" + 0.000*"protection"
+Topic 3 (2000.0): 0.001*"environment" + 0.001*"energy" + 0.001*"environmental" + 0.001*"committee" + 0.001*"waste" + 0.001*"protection" + 0.001*"pollution" + 0.001*"development" + 0.000*"council" + 0.000*"sustainable"
+Topic 4 (2000.0): 0.002*"environmental" + 0.001*"environment" + 0.001*"energy" + 0.001*"waste" + 0.001*"committee" + 0.001*"development" + 0.001*"report" + 0.001*"pollution" + 0.001*"sustainable" + 0.001*"protection"
+Topic 5 (2000.0): 0.020*"environment" + 0.016*"environmental" + 0.014*"energy" + 0.008*"waste" + 0.008*"committee" + 0.006*"policy" + 0.006*"protection" + 0.005*"sustainable" + 0.005*"directive" + 0.005*"pollution"

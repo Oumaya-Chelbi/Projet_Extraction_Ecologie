@@ -1,0 +1,6 @@
+Topic 0 (2004.0): 0.012*"environment" + 0.010*"environmental" + 0.009*"waste" + 0.009*"energy" + 0.008*"sustainable" + 0.007*"committee" + 0.006*"health" + 0.006*"policy" + 0.006*"development" + 0.005*"public"
+Topic 1 (2004.0): 0.025*"environment" + 0.013*"environmental" + 0.010*"protection" + 0.008*"energy" + 0.008*"sustainable" + 0.007*"waste" + 0.006*"development" + 0.006*"directive" + 0.005*"health" + 0.005*"economic"
+Topic 2 (2004.0): 0.002*"attract" + 0.001*"edge" + 0.001*"specificities" + 0.001*"tailor" + 0.001*"definitely" + 0.001*"characteristics" + 0.001*"environmental" + 0.001*"sustainable" + 0.001*"aspect" + 0.001*"environment"
+Topic 3 (2004.0): 0.013*"environmental" + 0.012*"energy" + 0.007*"social" + 0.007*"environment" + 0.005*"protection" + 0.005*"europe" + 0.004*"climate" + 0.004*"countries" + 0.004*"renewable" + 0.003*"health"
+Topic 4 (2004.0): 0.007*"energy" + 0.005*"environment" + 0.003*"environmental" + 0.002*"political" + 0.002*"committee" + 0.002*"directive" + 0.002*"reforms" + 0.002*"policy" + 0.002*"nuclear" + 0.002*"committed"
+Topic 5 (2004.0): 0.016*"environmental" + 0.015*"environment" + 0.013*"energy" + 0.010*"waste" + 0.009*"sustainable" + 0.007*"development" + 0.007*"policy" + 0.006*"social" + 0.006*"protection" + 0.005*"health"

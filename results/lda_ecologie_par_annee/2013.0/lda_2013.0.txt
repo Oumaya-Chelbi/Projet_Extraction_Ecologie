@@ -1,0 +1,6 @@
+Topic 0 (2013.0): 0.018*"energy" + 0.014*"environment" + 0.014*"environmental" + 0.009*"sustainable" + 0.008*"protection" + 0.008*"climate" + 0.006*"policy" + 0.006*"report" + 0.005*"development" + 0.005*"emissions"
+Topic 1 (2013.0): 0.026*"energy" + 0.014*"climate" + 0.013*"environment" + 0.010*"sustainable" + 0.008*"environmental" + 0.007*"policy" + 0.007*"emissions" + 0.006*"market" + 0.006*"europe" + 0.006*"change"
+Topic 2 (2013.0): 0.005*"energy" + 0.003*"environmental" + 0.003*"sustainable" + 0.002*"environment" + 0.002*"development" + 0.002*"climate" + 0.001*"economic" + 0.001*"policy" + 0.001*"emissions" + 0.001*"social"
+Topic 3 (2013.0): 0.023*"energy" + 0.013*"sustainable" + 0.011*"environmental" + 0.011*"environment" + 0.007*"climate" + 0.007*"policy" + 0.007*"development" + 0.006*"report" + 0.006*"economic" + 0.005*"social"
+Topic 4 (2013.0): 0.030*"energy" + 0.009*"sustainable" + 0.007*"environment" + 0.007*"report" + 0.006*"environmental" + 0.006*"development" + 0.006*"member" + 0.005*"states" + 0.005*"renewable" + 0.005*"market"
+Topic 5 (2013.0): 0.003*"energy" + 0.002*"environmental" + 0.002*"sustainable" + 0.002*"environment" + 0.002*"policy" + 0.002*"climate" + 0.002*"development" + 0.001*"report" + 0.001*"social" + 0.001*"growth"

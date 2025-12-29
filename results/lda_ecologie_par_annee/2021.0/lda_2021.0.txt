@@ -1,0 +1,6 @@
+Topic 0 (2021.0): 0.004*"climate" + 0.003*"environment" + 0.002*"sustainable" + 0.002*"justice" + 0.002*"asbestos" + 0.001*"environmental" + 0.001*"china" + 0.001*"young" + 0.001*"energy" + 0.001*"people"
+Topic 1 (2021.0): 0.036*"climate" + 0.017*"energy" + 0.009*"sustainable" + 0.009*"change" + 0.007*"need" + 0.006*"environment" + 0.006*"emissions" + 0.006*"environmental" + 0.006*"europe" + 0.005*"green"
+Topic 2 (2021.0): 0.027*"climate" + 0.022*"energy" + 0.009*"sustainable" + 0.008*"change" + 0.008*"environment" + 0.008*"environmental" + 0.006*"emissions" + 0.006*"president" + 0.006*"europe" + 0.005*"need"
+Topic 3 (2021.0): 0.022*"climate" + 0.016*"energy" + 0.012*"sustainable" + 0.009*"change" + 0.008*"environment" + 0.008*"environmental" + 0.007*"social" + 0.006*"need" + 0.005*"transition" + 0.005*"europe"
+Topic 4 (2021.0): 0.002*"climate" + 0.001*"energy" + 0.001*"sustainable" + 0.001*"change" + 0.001*"environment" + 0.001*"president" + 0.001*"environmental" + 0.001*"europe" + 0.001*"emissions" + 0.001*"social"
+Topic 5 (2021.0): 0.005*"energy" + 0.004*"climate" + 0.003*"sustainable" + 0.003*"environment" + 0.003*"social" + 0.003*"resources" + 0.002*"gentlemen" + 0.002*"ladies" + 0.002*"environmental" + 0.002*"support"

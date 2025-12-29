@@ -1,0 +1,6 @@
+Topic 0 (2022.0): 0.023*"energy" + 0.011*"climate" + 0.005*"change" + 0.005*"need" + 0.005*"prices" + 0.005*"support" + 0.005*"social" + 0.005*"sustainable" + 0.005*"president" + 0.004*"transition"
+Topic 1 (2022.0): 0.003*"energy" + 0.002*"climate" + 0.001*"europe" + 0.001*"sustainable" + 0.001*"crisis" + 0.001*"president" + 0.001*"prices" + 0.001*"need" + 0.001*"environment" + 0.001*"change"
+Topic 2 (2022.0): 0.003*"energy" + 0.001*"climate" + 0.001*"sustainable" + 0.001*"need" + 0.001*"president" + 0.001*"change" + 0.001*"crisis" + 0.001*"europe" + 0.001*"environment" + 0.001*"renewable"
+Topic 3 (2022.0): 0.044*"energy" + 0.017*"climate" + 0.008*"sustainable" + 0.007*"need" + 0.007*"crisis" + 0.006*"prices" + 0.006*"change" + 0.006*"europe" + 0.006*"environment" + 0.005*"president"
+Topic 4 (2022.0): 0.034*"energy" + 0.017*"climate" + 0.008*"prices" + 0.008*"sustainable" + 0.007*"social" + 0.006*"change" + 0.006*"europe" + 0.005*"crisis" + 0.005*"environment" + 0.005*"environmental"
+Topic 5 (2022.0): 0.041*"energy" + 0.019*"climate" + 0.009*"sustainable" + 0.007*"need" + 0.006*"renewable" + 0.006*"environment" + 0.006*"change" + 0.006*"crisis" + 0.005*"president" + 0.005*"europe"

@@ -1,0 +1,6 @@
+Topic 0 (2002.0): 0.002*"environmental" + 0.002*"environment" + 0.001*"energy" + 0.001*"development" + 0.001*"sustainable" + 0.001*"policy" + 0.001*"committee" + 0.001*"protection" + 0.001*"waste" + 0.000*"social"
+Topic 1 (2002.0): 0.023*"energy" + 0.008*"environment" + 0.005*"development" + 0.005*"environmental" + 0.005*"sustainable" + 0.004*"countries" + 0.004*"directive" + 0.004*"market" + 0.003*"waste" + 0.003*"health"
+Topic 2 (2002.0): 0.002*"environmental" + 0.002*"environment" + 0.001*"sustainable" + 0.001*"development" + 0.001*"energy" + 0.001*"waste" + 0.001*"policy" + 0.001*"committee" + 0.001*"protection" + 0.001*"directive"
+Topic 3 (2002.0): 0.012*"emissions" + 0.007*"environmental" + 0.005*"energy" + 0.005*"environment" + 0.005*"trading" + 0.003*"committee" + 0.003*"waste" + 0.002*"protection" + 0.002*"finland" + 0.002*"steel"
+Topic 4 (2002.0): 0.019*"environment" + 0.016*"environmental" + 0.012*"energy" + 0.011*"sustainable" + 0.010*"development" + 0.008*"committee" + 0.008*"policy" + 0.007*"waste" + 0.006*"protection" + 0.005*"public"
+Topic 5 (2002.0): 0.001*"environment" + 0.001*"environmental" + 0.001*"energy" + 0.001*"sustainable" + 0.001*"development" + 0.001*"committee" + 0.001*"protection" + 0.001*"policy" + 0.000*"waste" + 0.000*"social"

@@ -1,0 +1,6 @@
+Topic 0 (2014.0): 0.017*"energy" + 0.011*"environment" + 0.010*"environmental" + 0.009*"climate" + 0.009*"sustainable" + 0.007*"emissions" + 0.006*"report" + 0.006*"economic" + 0.006*"development" + 0.005*"social"
+Topic 1 (2014.0): 0.003*"energy" + 0.002*"environment" + 0.002*"climate" + 0.002*"sustainable" + 0.002*"environmental" + 0.002*"report" + 0.001*"development" + 0.001*"emissions" + 0.001*"economic" + 0.001*"policy"
+Topic 2 (2014.0): 0.029*"energy" + 0.017*"climate" + 0.011*"environment" + 0.010*"sustainable" + 0.008*"emissions" + 0.008*"environmental" + 0.007*"policy" + 0.006*"europe" + 0.006*"change" + 0.005*"need"
+Topic 3 (2014.0): 0.019*"energy" + 0.010*"environment" + 0.007*"report" + 0.005*"states" + 0.004*"climate" + 0.004*"sustainable" + 0.004*"countries" + 0.004*"people" + 0.004*"member" + 0.004*"russia"
+Topic 4 (2014.0): 0.017*"energy" + 0.013*"environment" + 0.012*"sustainable" + 0.009*"development" + 0.009*"environmental" + 0.008*"climate" + 0.007*"economic" + 0.006*"emissions" + 0.006*"change" + 0.006*"protection"
+Topic 5 (2014.0): 0.015*"environment" + 0.011*"energy" + 0.010*"report" + 0.009*"sustainable" + 0.007*"environmental" + 0.006*"climate" + 0.006*"food" + 0.006*"secure" + 0.006*"clean" + 0.005*"flights"

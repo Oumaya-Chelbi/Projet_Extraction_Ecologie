@@ -1,0 +1,6 @@
+Topic 0 (2007.0): 0.036*"energy" + 0.017*"climate" + 0.011*"environment" + 0.011*"policy" + 0.010*"environmental" + 0.010*"change" + 0.007*"waste" + 0.006*"emissions" + 0.006*"protection" + 0.006*"sustainable"
+Topic 1 (2007.0): 0.003*"energy" + 0.003*"environmental" + 0.003*"environment" + 0.002*"climate" + 0.002*"change" + 0.002*"maritime" + 0.001*"protection" + 0.001*"development" + 0.001*"policy" + 0.001*"sustainable"
+Topic 2 (2007.0): 0.005*"malta" + 0.004*"energy" + 0.002*"environmental" + 0.002*"immigration" + 0.002*"environment" + 0.001*"mandate" + 0.001*"climate" + 0.001*"sustainable" + 0.001*"development" + 0.001*"change"
+Topic 3 (2007.0): 0.029*"energy" + 0.011*"climate" + 0.010*"environment" + 0.009*"change" + 0.008*"emissions" + 0.008*"environmental" + 0.006*"sustainable" + 0.005*"policy" + 0.005*"development" + 0.005*"waste"
+Topic 4 (2007.0): 0.022*"energy" + 0.014*"environment" + 0.011*"environmental" + 0.011*"climate" + 0.008*"change" + 0.008*"policy" + 0.007*"sustainable" + 0.005*"development" + 0.005*"waste" + 0.005*"protection"
+Topic 5 (2007.0): 0.010*"energy" + 0.006*"black" + 0.006*"development" + 0.004*"transport" + 0.004*"common" + 0.004*"member" + 0.004*"states" + 0.003*"policy" + 0.003*"pollution" + 0.003*"romania"

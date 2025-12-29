@@ -1,0 +1,6 @@
+Topic 0 (2017.0): 0.014*"sustainable" + 0.012*"energy" + 0.010*"climate" + 0.009*"development" + 0.007*"environmental" + 0.007*"change" + 0.006*"environment" + 0.006*"president" + 0.006*"emissions" + 0.006*"waste"
+Topic 1 (2017.0): 0.002*"energy" + 0.001*"sustainable" + 0.001*"climate" + 0.001*"environment" + 0.001*"waste" + 0.001*"change" + 0.001*"environmental" + 0.001*"development" + 0.001*"emissions" + 0.001*"europe"
+Topic 2 (2017.0): 0.002*"energy" + 0.002*"sustainable" + 0.002*"climate" + 0.001*"change" + 0.001*"environmental" + 0.001*"waste" + 0.001*"development" + 0.001*"environment" + 0.001*"europe" + 0.001*"emissions"
+Topic 3 (2017.0): 0.001*"climate" + 0.001*"energy" + 0.001*"environmental" + 0.001*"environment" + 0.001*"emissions" + 0.001*"development" + 0.001*"change" + 0.000*"sustainable" + 0.000*"president" + 0.000*"need"
+Topic 4 (2017.0): 0.017*"energy" + 0.012*"climate" + 0.011*"environment" + 0.010*"sustainable" + 0.009*"environmental" + 0.009*"change" + 0.007*"waste" + 0.006*"emissions" + 0.006*"need" + 0.005*"development"
+Topic 5 (2017.0): 0.018*"energy" + 0.014*"climate" + 0.013*"sustainable" + 0.011*"environment" + 0.008*"environmental" + 0.007*"development" + 0.007*"emissions" + 0.007*"waste" + 0.007*"change" + 0.005*"president"

@@ -1,0 +1,6 @@
+Topic 0 (2011.0): 0.008*"energy" + 0.006*"climate" + 0.005*"environmental" + 0.004*"waste" + 0.004*"environment" + 0.003*"change" + 0.003*"sustainable" + 0.003*"money" + 0.003*"global" + 0.003*"president"
+Topic 1 (2011.0): 0.004*"energy" + 0.003*"sustainable" + 0.003*"environmental" + 0.002*"development" + 0.002*"economic" + 0.002*"environment" + 0.002*"climate" + 0.001*"europe" + 0.001*"report" + 0.001*"change"
+Topic 2 (2011.0): 0.003*"energy" + 0.002*"environment" + 0.001*"environmental" + 0.001*"sustainable" + 0.001*"development" + 0.001*"policy" + 0.001*"climate" + 0.001*"change" + 0.001*"waste" + 0.001*"nuclear"
+Topic 3 (2011.0): 0.019*"energy" + 0.012*"sustainable" + 0.010*"environmental" + 0.009*"environment" + 0.009*"development" + 0.008*"economic" + 0.006*"climate" + 0.006*"policy" + 0.006*"waste" + 0.006*"social"
+Topic 4 (2011.0): 0.028*"energy" + 0.012*"sustainable" + 0.010*"environment" + 0.010*"environmental" + 0.009*"climate" + 0.007*"development" + 0.007*"policy" + 0.007*"waste" + 0.006*"europe" + 0.006*"economic"
+Topic 5 (2011.0): 0.003*"energy" + 0.002*"sustainable" + 0.001*"environmental" + 0.001*"environment" + 0.001*"climate" + 0.001*"waste" + 0.001*"development" + 0.001*"europe" + 0.001*"change" + 0.001*"social"

@@ -1,0 +1,6 @@
+Topic 0 (2003.0): 0.019*"environment" + 0.012*"environmental" + 0.008*"development" + 0.008*"protection" + 0.008*"energy" + 0.005*"transport" + 0.005*"damage" + 0.005*"health" + 0.005*"directive" + 0.005*"sustainable"
+Topic 1 (2003.0): 0.019*"energy" + 0.016*"environmental" + 0.011*"environment" + 0.008*"emissions" + 0.006*"directive" + 0.006*"important" + 0.006*"sustainable" + 0.005*"waste" + 0.004*"transport" + 0.004*"cooperation"
+Topic 2 (2003.0): 0.017*"environment" + 0.015*"energy" + 0.015*"environmental" + 0.009*"sustainable" + 0.007*"development" + 0.006*"policy" + 0.006*"protection" + 0.006*"committee" + 0.005*"directive" + 0.005*"emissions"
+Topic 3 (2003.0): 0.012*"environment" + 0.011*"environmental" + 0.007*"protection" + 0.006*"proposal" + 0.006*"directive" + 0.005*"report" + 0.005*"council" + 0.005*"committee" + 0.004*"president" + 0.004*"waste"
+Topic 4 (2003.0): 0.003*"environment" + 0.002*"energy" + 0.002*"environmental" + 0.001*"sustainable" + 0.001*"policy" + 0.001*"directive" + 0.001*"development" + 0.001*"protection" + 0.001*"proposal" + 0.001*"social"
+Topic 5 (2003.0): 0.018*"environment" + 0.015*"environmental" + 0.014*"energy" + 0.009*"sustainable" + 0.008*"development" + 0.007*"policy" + 0.006*"directive" + 0.006*"social" + 0.006*"committee" + 0.005*"protection"

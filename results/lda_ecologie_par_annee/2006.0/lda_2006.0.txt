@@ -1,0 +1,6 @@
+Topic 0 (2006.0): 0.032*"energy" + 0.013*"environment" + 0.011*"environmental" + 0.009*"policy" + 0.007*"sustainable" + 0.006*"development" + 0.006*"climate" + 0.005*"europe" + 0.005*"emissions" + 0.005*"protection"
+Topic 1 (2006.0): 0.003*"energy" + 0.002*"environment" + 0.002*"environmental" + 0.001*"sustainable" + 0.001*"social" + 0.001*"policy" + 0.001*"report" + 0.001*"development" + 0.001*"important" + 0.001*"states"
+Topic 2 (2006.0): 0.002*"energy" + 0.002*"environment" + 0.001*"environmental" + 0.001*"sustainable" + 0.001*"policy" + 0.001*"protection" + 0.001*"development" + 0.001*"social" + 0.001*"europe" + 0.001*"health"
+Topic 3 (2006.0): 0.033*"energy" + 0.015*"environment" + 0.010*"environmental" + 0.008*"policy" + 0.006*"sustainable" + 0.006*"development" + 0.005*"health" + 0.005*"member" + 0.005*"states" + 0.005*"europe"
+Topic 4 (2006.0): 0.002*"energy" + 0.001*"environment" + 0.001*"environmental" + 0.001*"sustainable" + 0.001*"development" + 0.001*"directive" + 0.001*"policy" + 0.001*"emissions" + 0.001*"health" + 0.001*"states"
+Topic 5 (2006.0): 0.002*"energy" + 0.001*"environment" + 0.001*"environmental" + 0.001*"sustainable" + 0.000*"social" + 0.000*"emissions" + 0.000*"europe" + 0.000*"development" + 0.000*"protection" + 0.000*"policy"

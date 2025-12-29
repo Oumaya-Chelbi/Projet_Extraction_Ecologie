@@ -1,0 +1,6 @@
+Topic 0 (2010.0): 0.031*"energy" + 0.013*"climate" + 0.010*"sustainable" + 0.009*"environment" + 0.009*"environmental" + 0.008*"change" + 0.007*"policy" + 0.006*"economic" + 0.006*"development" + 0.005*"efficiency"
+Topic 1 (2010.0): 0.019*"energy" + 0.011*"sustainable" + 0.010*"climate" + 0.009*"environmental" + 0.009*"development" + 0.009*"economic" + 0.007*"environment" + 0.007*"social" + 0.007*"change" + 0.006*"biodiversity"
+Topic 2 (2010.0): 0.021*"energy" + 0.009*"environment" + 0.008*"sustainable" + 0.007*"climate" + 0.007*"environmental" + 0.006*"economic" + 0.006*"president" + 0.005*"change" + 0.005*"protection" + 0.005*"ladies"
+Topic 3 (2010.0): 0.011*"energy" + 0.010*"climate" + 0.008*"change" + 0.007*"environment" + 0.006*"sustainable" + 0.006*"environmental" + 0.006*"biodiversity" + 0.005*"food" + 0.005*"economic" + 0.005*"need"
+Topic 4 (2010.0): 0.001*"energy" + 0.001*"climate" + 0.001*"sustainable" + 0.001*"change" + 0.001*"environment" + 0.001*"environmental" + 0.001*"social" + 0.001*"economic" + 0.000*"policy" + 0.000*"europe"
+Topic 5 (2010.0): 0.014*"energy" + 0.011*"climate" + 0.010*"environmental" + 0.009*"environment" + 0.008*"social" + 0.008*"sustainable" + 0.008*"development" + 0.007*"biodiversity" + 0.007*"change" + 0.006*"protection"

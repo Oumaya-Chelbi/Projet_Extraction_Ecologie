@@ -1,0 +1,6 @@
+Topic 0 (1999.0): 0.001*"energy" + 0.001*"environmental" + 0.001*"environment" + 0.001*"policy" + 0.001*"emissions" + 0.001*"climate" + 0.001*"committee" + 0.001*"trade" + 0.000*"countries" + 0.000*"protection"
+Topic 1 (1999.0): 0.013*"energy" + 0.009*"environment" + 0.007*"environmental" + 0.007*"climate" + 0.007*"nuclear" + 0.005*"protection" + 0.004*"world" + 0.004*"policy" + 0.004*"council" + 0.004*"consumption"
+Topic 2 (1999.0): 0.001*"energy" + 0.001*"environment" + 0.001*"environmental" + 0.001*"emissions" + 0.001*"policy" + 0.000*"climate" + 0.000*"protection" + 0.000*"sustainable" + 0.000*"renewable" + 0.000*"development"
+Topic 3 (1999.0): 0.001*"energy" + 0.001*"environment" + 0.001*"environmental" + 0.001*"policy" + 0.001*"development" + 0.000*"climate" + 0.000*"sustainable" + 0.000*"protection" + 0.000*"countries" + 0.000*"emissions"
+Topic 4 (1999.0): 0.025*"energy" + 0.016*"environment" + 0.014*"environmental" + 0.009*"emissions" + 0.008*"policy" + 0.006*"climate" + 0.006*"committee" + 0.006*"sustainable" + 0.006*"development" + 0.006*"protection"
+Topic 5 (1999.0): 0.004*"weapons" + 0.003*"respect" + 0.002*"covered" + 0.002*"contributed" + 0.002*"multifunctional" + 0.002*"testing" + 0.002*"throughout" + 0.002*"wealth" + 0.002*"nuclear" + 0.002*"education"

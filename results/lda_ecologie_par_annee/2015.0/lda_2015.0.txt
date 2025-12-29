@@ -1,0 +1,6 @@
+Topic 0 (2015.0): 0.045*"energy" + 0.013*"climate" + 0.011*"sustainable" + 0.009*"environment" + 0.007*"security" + 0.007*"europe" + 0.007*"emissions" + 0.007*"development" + 0.006*"policy" + 0.006*"important"
+Topic 1 (2015.0): 0.009*"energy" + 0.006*"sustainable" + 0.003*"development" + 0.003*"report" + 0.003*"climate" + 0.003*"environment" + 0.003*"favour" + 0.003*"emissions" + 0.003*"policy" + 0.002*"environmental"
+Topic 2 (2015.0): 0.020*"energy" + 0.014*"environment" + 0.012*"sustainable" + 0.009*"climate" + 0.007*"emissions" + 0.007*"report" + 0.007*"environmental" + 0.007*"policy" + 0.006*"development" + 0.006*"protection"
+Topic 3 (2015.0): 0.020*"energy" + 0.014*"sustainable" + 0.010*"environment" + 0.008*"development" + 0.008*"climate" + 0.007*"report" + 0.007*"emissions" + 0.006*"environmental" + 0.006*"economic" + 0.005*"change"
+Topic 4 (2015.0): 0.020*"energy" + 0.011*"environment" + 0.010*"report" + 0.009*"emissions" + 0.009*"sustainable" + 0.008*"environmental" + 0.007*"climate" + 0.006*"states" + 0.005*"voted" + 0.005*"development"
+Topic 5 (2015.0): 0.027*"energy" + 0.012*"sustainable" + 0.010*"climate" + 0.009*"report" + 0.008*"environment" + 0.007*"emissions" + 0.006*"environmental" + 0.006*"voted" + 0.005*"change" + 0.005*"member"

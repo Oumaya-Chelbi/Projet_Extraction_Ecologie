@@ -1,0 +1,6 @@
+Topic 0 (2024.0): 0.022*"energy" + 0.018*"climate" + 0.010*"environmental" + 0.007*"sustainable" + 0.007*"environment" + 0.005*"food" + 0.005*"social" + 0.005*"change" + 0.005*"geothermal" + 0.005*"sustainability"
+Topic 1 (2024.0): 0.019*"climate" + 0.011*"energy" + 0.009*"environment" + 0.009*"environmental" + 0.008*"sustainable" + 0.008*"water" + 0.007*"pollution" + 0.006*"social" + 0.006*"transition" + 0.006*"change"
+Topic 2 (2024.0): 0.021*"climate" + 0.018*"energy" + 0.012*"environment" + 0.008*"sustainable" + 0.007*"need" + 0.007*"environmental" + 0.005*"change" + 0.005*"geothermal" + 0.005*"emissions" + 0.005*"farmers"
+Topic 3 (2024.0): 0.011*"farmers" + 0.008*"climate" + 0.008*"food" + 0.007*"sustainable" + 0.006*"future" + 0.005*"change" + 0.005*"sector" + 0.005*"ensure" + 0.004*"energy" + 0.004*"environment"
+Topic 4 (2024.0): 0.017*"energy" + 0.015*"climate" + 0.009*"environmental" + 0.009*"sustainable" + 0.008*"environment" + 0.006*"president" + 0.005*"policy" + 0.005*"ensure" + 0.005*"emissions" + 0.005*"transition"
+Topic 5 (2024.0): 0.011*"climate" + 0.010*"energy" + 0.004*"emissions" + 0.004*"reductions" + 0.004*"nature" + 0.003*"target" + 0.003*"mining" + 0.003*"deep" + 0.002*"sustainable" + 0.002*"president"

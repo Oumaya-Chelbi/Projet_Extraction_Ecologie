@@ -1,0 +1,6 @@
+Topic 0 (2019.0): 0.003*"climate" + 0.002*"change" + 0.001*"sustainable" + 0.001*"energy" + 0.001*"environment" + 0.001*"mains" + 0.001*"pollinate" + 0.001*"shake" + 0.001*"innovatively" + 0.001*"influx"
+Topic 1 (2019.0): 0.003*"climate" + 0.001*"sustainable" + 0.001*"change" + 0.001*"europe" + 0.001*"energy" + 0.001*"environment" + 0.001*"environmental" + 0.001*"president" + 0.001*"emissions" + 0.001*"need"
+Topic 2 (2019.0): 0.002*"climate" + 0.001*"energy" + 0.001*"sustainable" + 0.001*"change" + 0.001*"environment" + 0.001*"environmental" + 0.001*"president" + 0.001*"europe" + 0.001*"need" + 0.001*"development"
+Topic 3 (2019.0): 0.033*"climate" + 0.013*"change" + 0.013*"sustainable" + 0.011*"energy" + 0.008*"environmental" + 0.008*"environment" + 0.007*"europe" + 0.006*"need" + 0.005*"president" + 0.005*"development"
+Topic 4 (2019.0): 0.020*"climate" + 0.014*"environment" + 0.010*"change" + 0.010*"sustainable" + 0.009*"energy" + 0.007*"environmental" + 0.006*"president" + 0.006*"europe" + 0.005*"development" + 0.005*"policy"
+Topic 5 (2019.0): 0.003*"climate" + 0.001*"energy" + 0.001*"change" + 0.001*"environment" + 0.001*"environmental" + 0.001*"europe" + 0.001*"sustainable" + 0.001*"president" + 0.001*"policy" + 0.001*"emissions"
