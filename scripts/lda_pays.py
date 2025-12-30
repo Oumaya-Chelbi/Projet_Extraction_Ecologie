@@ -1,6 +1,4 @@
-# =====================================================
 # SCORE ÉCOLOGIQUE PAR PAYS (AVEC LDA ÉCOLOGIQUE)
-# =====================================================
 
 import os
 import re
@@ -12,19 +10,24 @@ from nltk.corpus import stopwords
 
 # PARAMÈTRES
 
-CHEMIN_CORPUS_GLOBAL = "data/processed/EUPDCorp_TXT"   # corpus normal, non filtré
+# Chemin vers le corpus global (non filtré)
+CHEMIN_CORPUS_GLOBAL = "data/processed/EUPDCorp_TXT"
+
+# Modèle et dictionnaire LDA écolo préalablement entraînés
 MODELE_LDA_ECO_PATH = "models/lda_ecologie.model"
 DICTIONNAIRE_ECO_PATH = "models/lda_ecologie.dict"
 
+# Dossier où on va sauvegarder nos scores écologiques
 DOSSIER_SORTIE = "results/lda_pays_ecologie"
 
-MIN_TOKENS = 20      # longueur min d'un discours pour être pris en compte
-TOPICS_ECO = list(range(10))   # topics 0–9 du modèle écologique [file:98]
+# Paramètres pour filtrer les documents
+MIN_TOKENS = 20      # On ne garde que les discours d'au moins 20 tokens
+TOPICS_ECO = list(range(10))   # Topics 0–9 du modèle écologique
 
-# STOPWORDS & PREPROCESSING (doivent être cohérents avec le modèle LDA écolo)
+# STOPWORDS & PREPROCESSING
 
+# On télécharge les stopwords et on ajoute des mots fréquents mais peu informatifs
 nltk.download("stopwords")
-
 stop_words = set(stopwords.words("english"))
 stop_words.update([
     "would", "could", "also", "may", "must", "one", "said",
@@ -32,13 +35,18 @@ stop_words.update([
     "parliament", "commission", "european", "union"
 ])
 
+# Fonctions pour nettoyer et tokeniser le texte
 def nettoyer_texte(texte):
+    # On met tout en minuscules
     texte = texte.lower()
+    # On enlève les caractères non alphabétiques
     texte = re.sub(r"[^a-z\s]", " ", texte)
+    # On réduit les espaces multiples
     texte = re.sub(r"\s+", " ", texte)
     return texte.strip()
 
 def tokenizer(texte):
+    # On garde seulement les mots >3 lettres et pas dans les stopwords
     return [
         mot for mot in texte.split()
         if len(mot) > 3 and mot not in stop_words
@@ -46,20 +54,24 @@ def tokenizer(texte):
 
 # CHARGEMENT DU MODÈLE LDA ÉCOLOGIQUE
 
+# On crée le dossier de sortie s’il n’existe pas
 os.makedirs(DOSSIER_SORTIE, exist_ok=True)
 
+# On charge le dictionnaire et le modèle LDA écolo
 dictionary = corpora.Dictionary.load(DICTIONNAIRE_ECO_PATH)
 lda_eco = LdaModel.load(MODELE_LDA_ECO_PATH)
 
 # SCORE ÉCOLOGIQUE PAR DISCOURS (CORPUS GLOBAL)
 
-doc_rows = []
+doc_rows = []  # On va stocker les résultats par discours ici
 
+# On parcourt le corpus global année par année
 for dossier_annee in sorted(os.listdir(CHEMIN_CORPUS_GLOBAL)):
     chemin_annee = os.path.join(CHEMIN_CORPUS_GLOBAL, dossier_annee)
     if not os.path.isdir(chemin_annee):
         continue
 
+    # On parcourt tous les fichiers texte de l'année
     for fichier in os.listdir(chemin_annee):
         if not fichier.endswith(".txt"):
             continue
@@ -67,24 +79,27 @@ for dossier_annee in sorted(os.listdir(CHEMIN_CORPUS_GLOBAL)):
         chemin_fichier = os.path.join(chemin_annee, fichier)
         pays = os.path.splitext(fichier)[0]  # FRA.txt -> FRA
 
+        # On lit le discours
         with open(chemin_fichier, encoding="utf-8", errors="ignore") as f:
             texte = f.read()
 
+        # On nettoie et tokenize
         texte = nettoyer_texte(texte)
         tokens = tokenizer(texte)
 
+        # On ignore les documents trop courts
         if len(tokens) < MIN_TOKENS:
             continue
 
-        # projeter le document dans l'espace du modèle LDA écolo
+        # On projette le document dans l'espace du modèle LDA écolo
         bow = dictionary.doc2bow(tokens)
         if len(bow) == 0:
             continue
 
-        # distribution de topics
+        # On récupère la distribution des topics pour le document
         doc_topics = lda_eco.get_document_topics(bow, minimum_probability=0.0)
 
-        # score écologique = somme des probabilités des topics écolo
+        # Score écologique = somme des probabilités des topics écolo
         score_eco = sum(prob for tid, prob in doc_topics if tid in TOPICS_ECO)
 
         doc_rows.append({
@@ -94,6 +109,7 @@ for dossier_annee in sorted(os.listdir(CHEMIN_CORPUS_GLOBAL)):
             "score_eco": score_eco
         })
 
+# On met les résultats dans un DataFrame
 df_docs = pd.DataFrame(doc_rows)
 docs_scores_path = os.path.join(DOSSIER_SORTIE, "scores_ecologiques_par_discours_global.csv")
 df_docs.to_csv(docs_scores_path, index=False)
@@ -101,7 +117,7 @@ print(f" Scores écologiques par discours (corpus global) : {docs_scores_path}")
 
 # AGRÉGATION PAR PAYS : TOP 10
 
-# score total par pays (volume d'écologie)
+# On calcule le score total par pays
 df_pays = (
     df_docs
     .groupby("pays", as_index=False)
@@ -110,7 +126,7 @@ df_pays = (
     .rename(columns={"score_eco": "score_eco_total"})
 )
 
-# trier du pays le plus au moins écologique
+# On trie du pays le plus au moins écologique
 df_pays_sorted = df_pays.sort_values("score_eco_total", ascending=False)
 
 pays_scores_path = os.path.join(DOSSIER_SORTIE, "classement_pays_ecologie_global.csv")
@@ -122,13 +138,12 @@ print(df_pays_sorted.head(10))
 # POUR CHAQUE TOP PAYS : ANNÉE LA PLUS ÉCOLOGIQUE
 
 top10_pays = df_pays_sorted.head(10)["pays"].tolist()
-
 rows_top10 = []
 
 for pays in top10_pays:
     df_p = df_docs[df_docs["pays"] == pays]
 
-    # score par année pour ce pays
+    # On calcule le score par année pour ce pays
     df_p_annee = (
         df_p
         .groupby("annee", as_index=False)
@@ -137,7 +152,7 @@ for pays in top10_pays:
         .rename(columns={"score_eco": "score_eco_annee"})
     )
 
-    # année avec score max
+    # On identifie l'année avec le score écologique maximal
     best_row = df_p_annee.sort_values("score_eco_annee", ascending=False).iloc[0]
 
     rows_top10.append({
